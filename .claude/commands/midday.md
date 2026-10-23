@@ -12,8 +12,12 @@ market is closed, tell the user and stop.
 
 STEP 1 — Read memory:
 - memory/TRADING-STRATEGY.md (exit rules)
-- tail of memory/TRADE-LOG.md (entries, thesis per position, stops)
-- today's memory/RESEARCH-LOG.md entry
+- Set `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
+- `bash scripts/memory.sh read trade --since "$SINCE_35" --until "$DATE" --max-bytes 40000`
+  (entries, thesis per position, stops)
+- `bash scripts/memory.sh read research --since "$DATE" --until "$DATE" --max-bytes 20000`
+  (today's research entry)
+- Never open a complete log or an archive directly.
 
 STEP 2 — Pull current state:
   bash scripts/alpaca.sh positions
@@ -23,10 +27,11 @@ STEP 3 — Cut losers immediately. For every position where
 unrealized_plpc <= -0.07:
   bash scripts/alpaca.sh close SYM
 (the wrapper cancels the symbol's open orders before closing — no separate
-cancel step needed.) Log the exit: exit price, realized P&L, "cut at -7%".
+cancel step needed.) Log the exit under `## $DATE — Midday Actions`: exit
+price, realized P&L, "cut at -7%". Update the `Open Positions` table.
 
 STEP 4 — Tighten trailing stops on winners. Cancel the old stop, place a
-new one: up >= +20% -> trail_percent "5"; up >= +15% -> trail_percent "7".
+new one: up >= +20% -> trail_percent "4"; up >= +15% -> trail_percent "5".
 Never tighten within 3% of current price. Never move a stop down. Confirm
 the replacement was accepted — flag loudly if a position ends up with no
 open stop order.

@@ -1,8 +1,8 @@
 # Trading Bot
 
-An autonomous Claude Code agent that swing-trades a Grantham-themed
-universe (non-US equities, gold/metals/commodities, TIPS — no US stocks,
-no crypto, no options) on Alpaca. There is no separate bot process —
+An autonomous Claude Code agent that swing-trades on Alpaca with no fixed
+universe — research forms each thesis (any liquid US-listed stock/ETF; no
+crypto, no options). There is no separate bot process —
 Claude itself is the bot, invoked fresh on a schedule. Git is its only
 memory between runs (see `memory/`); the only way it ever touches money
 is through `scripts/alpaca.sh`.
@@ -64,7 +64,8 @@ CLAUDE.md          Agent rulebook, auto-loaded every session
 env.template        Copy to .env locally; never commit .env
 .claude/commands/    Local slash commands (manual/ad-hoc use)
 routines/            Cloud routine prompts (the production path)
-scripts/             alpaca.sh / perplexity.sh / clickup.sh wrappers —
+scripts/             API wrappers plus bounded memory.sh reader/archiver —
                       the only way this repo touches the outside world
 memory/              The bot's persistent state, committed to main
+  archive/            Completed monthly logs and quarterly reviews
 ```

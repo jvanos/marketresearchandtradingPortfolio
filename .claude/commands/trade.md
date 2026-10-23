@@ -21,7 +21,9 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
    daily-loss circuit breaker) before it reaches Alpaca. If it exits 2,
    print the rejection reason verbatim to the user and stop — do not
    retry with a smaller size to route around the rejection.
-5. For BUYs that succeed, immediately place 10% trailing stop GTC (same
+5. For BUYs that succeed, immediately place 7% trailing stop GTC (same
    flow as market-open).
-6. Log to memory/TRADE-LOG.md with full thesis, entry, stop, target, R:R.
+6. Log under `## YYYY-MM-DD — Manual Trade` in memory/TRADE-LOG.md with
+   full thesis, entry, stop, target, R:R. Keep the bounded `Open Positions`
+   table current; it is active state, not journal history.
 7. bash scripts/clickup.sh with trade details.

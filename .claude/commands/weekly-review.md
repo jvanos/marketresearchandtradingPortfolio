@@ -10,10 +10,15 @@ STEP 0 — Safety check: still produce this week's review even if HALT is
 present or the market was closed today — note it in the review.
 
 STEP 1 — Read memory for full week context:
-- memory/WEEKLY-REVIEW.md (match existing template exactly)
-- ALL this week's entries in memory/TRADE-LOG.md
-- ALL this week's entries in memory/RESEARCH-LOG.md
+- Set `MONDAY=$(date -v-mon +%Y-%m-%d)` and
+  `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
+- `bash scripts/memory.sh archive weekly --as-of "$DATE"`
+- `bash scripts/memory.sh read weekly --since "$SINCE_35" --until "$DATE" --max-bytes 40000`
+  (template plus recent reviews)
+- `bash scripts/memory.sh read trade --since "$MONDAY" --until "$DATE" --max-bytes 40000`
+- `bash scripts/memory.sh read research --since "$MONDAY" --until "$DATE" --max-bytes 40000`
 - memory/TRADING-STRATEGY.md
+- Never open a complete log or an archive directly.
 
 STEP 2 — Pull week-end state:
   bash scripts/alpaca.sh account

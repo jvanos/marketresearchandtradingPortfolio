@@ -36,7 +36,7 @@ the commit-and-push step are all load-bearing.
    `git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git`
    before pushing, and without both the push fails on an undefined
    variable. `GITHUB_REPO` is `owner/repo` (currently
-   `jvanos/marktetresearchandtradingGrantham`) — kept as a variable
+   `jvanos/marketresearchandtradingPortfolio`) — kept as a variable
    rather than hardcoded so a future rename only means updating this one
    env var, not editing all five routine files again. Use a fine-grained
    personal access token for `GITHUB_TOKEN`, scoped to only this
@@ -63,3 +63,19 @@ This exists because five independently-scheduled cloud routines can't be
 paused in one place from the web UI — a shared file checked by all of them
 is the fastest way to stop a stuck or misbehaving run before it fires
 again.
+
+## Bounded memory and archives
+
+Routines must read growing logs through `scripts/memory.sh`, never by opening
+the complete files. Each read has both an ISO date range and an explicit byte
+cap. The reader transparently includes matching archived sections.
+
+The first pre-market run in a new month moves completed months from the trade
+and research logs into `memory/archive/{trade,research}/YYYY-MM.md`. The first
+weekly review in a new quarter moves completed quarters into
+`memory/archive/weekly/YYYY-QN.md`. Archive changes are included in those
+routines' mandatory commits.
+
+After changing a file in this directory, paste the revised prompt into its
+Claude Code cloud routine; editing this repository does not update an already
+configured routine prompt in the web UI.

@@ -10,10 +10,14 @@ present or the market was closed — note it in the message. Silence should
 never be the only signal something is wrong.
 
 STEP 1 — Read memory for continuity:
-- tail of memory/TRADE-LOG.md (most recent EOD snapshot -> yesterday's
+- Set `MONDAY=$(date -v-mon +%Y-%m-%d)` and
+  `SINCE_14=$(date -v-14d +%Y-%m-%d)`.
+- `bash scripts/memory.sh read trade --since "$SINCE_14" --until "$DATE" --max-bytes 30000`
+  (most recent EOD snapshot -> yesterday's
   equity, needed for Day P&L — a cosmetic display number only)
 - Count TRADE-LOG entries dated today
 - Count trades Mon-today this week
+- Never open a complete log or an archive directly.
 
 STEP 2 — Pull final state of the day:
   bash scripts/alpaca.sh account
@@ -28,7 +32,7 @@ STEP 3 — Compute metrics:
 - Trades this week (running total)
 
 STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
-### MMM DD — EOD Snapshot (Day N, Weekday)
+## YYYY-MM-DD — EOD Snapshot (Day N, Weekday)
 **Portfolio:** $X | **Cash:** $X (X%) | **Day P&L:** ±$X (±X%) | **Phase P&L:** ±$X (±X%)
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 **Notes:** one-paragraph plain-english summary.
