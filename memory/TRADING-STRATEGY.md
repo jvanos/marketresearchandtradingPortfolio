@@ -7,10 +7,10 @@ research forms the thesis. No options, ever.
 ## Universe
 Eligible:
 - Any liquid US-listed stock or ETF (domestic or international, any
-  sector/asset class)
+  sector/asset class), including crypto ETFs and crypto-linked stocks
 
 Excluded, always:
-- Crypto
+- Spot crypto (coins/pairs like BTC/USD)
 - Options or any other derivative
 - Illiquid names (wide spread, thin volume) or halted symbols
 
@@ -24,7 +24,7 @@ No reference tickers — every pick comes from that session's research.
 ## Core Rules
 1. NO OPTIONS — ever (enforced in scripts/alpaca.sh, not just this doc)
 2. Every entry needs a research-backed thesis logged in RESEARCH-LOG
-   before execution. No crypto.
+   before execution. Crypto only via listed ETFs/stocks.
 3. 75-85% deployed
 4. Up to 30 positions at a time, max 20% each (position-count and 20% cap
    also enforced in scripts/alpaca.sh)

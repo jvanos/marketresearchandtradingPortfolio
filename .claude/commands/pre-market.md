@@ -12,6 +12,8 @@ before doing any research (local ad-hoc runs may legitimately want to
 research on a closed day).
 
 STEP 1 — Read memory for context:
+- `bash scripts/memory-sync.sh pull` first — logs live on branch
+  claude/memory; rules stay on main. Don't commit memory/ logs to main.
 - memory/TRADING-STRATEGY.md
 - Set `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
 - `bash scripts/memory.sh archive trade --as-of "$DATE"`
@@ -54,3 +56,7 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 
 STEP 5 — Notification: silent unless urgent.
   bash scripts/clickup.sh "<one line>"
+
+STEP 6 — Save logs to claude/memory (never to main):
+  bash scripts/memory-sync.sh push "pre-market research $DATE"
+If it exits non-zero, show the user the error. Never force-push.

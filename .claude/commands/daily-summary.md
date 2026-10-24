@@ -10,6 +10,8 @@ present or the market was closed — note it in the message. Silence should
 never be the only signal something is wrong.
 
 STEP 1 — Read memory for continuity:
+- `bash scripts/memory-sync.sh pull` first — logs live on branch
+  claude/memory; rules stay on main. Don't commit memory/ logs to main.
 - Set `MONDAY=$(date -v-mon +%Y-%m-%d)` and
   `SINCE_14=$(date -v-14d +%Y-%m-%d)`.
 - `bash scripts/memory.sh read trade --since "$SINCE_14" --until "$DATE" --max-bytes 30000`
@@ -46,3 +48,7 @@ lines:
   Open positions:
     SYM ±X.X% (stop \$X.XX)
   Tomorrow: <one-line plan>"
+
+STEP 6 — Save logs to claude/memory (never to main):
+  bash scripts/memory-sync.sh push "EOD snapshot $DATE"
+If it exits non-zero, show the user the error. Never force-push.

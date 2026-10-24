@@ -10,6 +10,8 @@ STEP 0 — Safety check: still produce this week's review even if HALT is
 present or the market was closed today — note it in the review.
 
 STEP 1 — Read memory for full week context:
+- `bash scripts/memory-sync.sh pull` first — logs live on branch
+  claude/memory; rules stay on main. Don't commit memory/ logs to main.
 - Set `MONDAY=$(date -v-mon +%Y-%m-%d)` and
   `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
 - `bash scripts/memory.sh archive weekly --as-of "$DATE"`
@@ -55,3 +57,7 @@ STEP 6 — Send ONE ClickUp message. <= 15 lines:
   Best: SYM +X% Worst: SYM -X%
   One-line takeaway: <...>
   Grade: <letter>"
+
+STEP 7 — Save logs to claude/memory (never to main):
+  bash scripts/memory-sync.sh push "weekly review $DATE"
+If it exits non-zero, show the user the error. Never force-push.

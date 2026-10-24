@@ -1,8 +1,8 @@
 # Trading Bot
 
 An autonomous Claude Code agent that swing-trades on Alpaca with no fixed
-universe — research forms each thesis (any liquid US-listed stock/ETF; no
-crypto, no options). There is no separate bot process —
+universe — research forms each thesis (any liquid US-listed stock/ETF,
+crypto only via ETFs/stocks; no spot crypto, no options). There is no separate bot process —
 Claude itself is the bot, invoked fresh on a schedule. Git is its only
 memory between runs (see `memory/`); the only way it ever touches money
 is through `scripts/alpaca.sh`.

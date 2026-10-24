@@ -10,7 +10,8 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
    user explicitly ("HALT file present — trading is paused. Remove HALT to
    resume.") and stop here; do not proceed. Run `bash scripts/alpaca.sh
    clock` — if the market is closed, tell the user and stop.
-1. Pull state: account, positions, quote SYMBOL (capture ask price P).
+1. `bash scripts/memory-sync.sh pull` (logs live on branch claude/memory).
+   Pull state: account, positions, quote SYMBOL (capture ask price P).
 2. For SELL, confirm position exists with right qty. No other checks —
    sells are never blocked by the wrapper gates.
 3. Print the order JSON, ask "execute? (y/n)".
@@ -27,3 +28,5 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
    full thesis, entry, stop, target, R:R. Keep the bounded `Open Positions`
    table current; it is active state, not journal history.
 7. bash scripts/clickup.sh with trade details.
+8. `bash scripts/memory-sync.sh push "manual trade SYM YYYY-MM-DD"` — saves
+   the log to claude/memory, never main. Show the user any error.

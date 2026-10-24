@@ -24,7 +24,12 @@ IMPORTANT — ENVIRONMENT VARIABLES:
 IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
   MUST commit and push at STEP 6. 
-Before doing anything else, switch to the branch claude/memory. If it doesn't exist yet, create it from main. Read your memory from this branch, and commit and push all updates to claude/memory. Never push to main.
+- Logs (TRADE-LOG, RESEARCH-LOG, WEEKLY-REVIEW, archive/) live on branch
+  claude/memory; rules, scripts, and HALT stay on main. Stay checked out on
+  main. Right after the env-var check, before STEP 0:
+    git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git"
+    bash scripts/memory-sync.sh pull
+  Never commit or push to main. Never force-push.
 
 STEP 0 — Safety check (before anything else):
 - If a file named HALT exists at the repo root: do not research or trade.
@@ -36,7 +41,6 @@ STEP 0 — Safety check (before anything else):
   about the closure itself is unusual.
 
 STEP 1 — Read memory for context:
-Read your memory from branch claude/memory.
 - memory/TRADING-STRATEGY.md
 - Set `SINCE_35=$(date -d "$DATE -35 days" +%Y-%m-%d)`.
 - `bash scripts/memory.sh archive trade --as-of "$DATE"`
@@ -84,8 +88,6 @@ STEP 5 — Notification: silent unless urgent.
   bash scripts/clickup.sh "<one line>"
 
 STEP 6 — COMMIT AND PUSH (mandatory):
- Make sure you're in branch claude/memory. If it doesn't exist yet, create it from main. Commit and push all updates to claude/memory. 
-  git add memory/RESEARCH-LOG.md memory/TRADE-LOG.md memory/archive/
-  git commit -m "pre-market research $DATE"
-  git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git"
-  git push origin claude/memory
+  bash scripts/memory-sync.sh push "pre-market research $DATE"
+If it exits non-zero, send one ClickUp alert with its stderr line. Never
+force-push, never push to main.

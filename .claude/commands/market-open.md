@@ -11,6 +11,8 @@ the user and stop. Run `bash scripts/alpaca.sh clock` — if the market is
 closed today, tell the user and stop (no trading on a closed market).
 
 STEP 1 — Read memory for today's plan:
+- `bash scripts/memory-sync.sh pull` first — logs live on branch
+  claude/memory; rules stay on main. Don't commit memory/ logs to main.
 - memory/TRADING-STRATEGY.md
 - Set `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
 - `bash scripts/memory.sh read research --since "$DATE" --until "$DATE" --max-bytes 20000`
@@ -25,8 +27,8 @@ STEP 2 — Re-validate with live data:
   bash scripts/alpaca.sh quote <each planned ticker>
 
 STEP 3 — Sanity-check each planned trade (liquid stock/ETF, no options,
-no crypto, thesis + catalyst documented in today's RESEARCH-LOG,
-reasonable vs. account size).
+no spot crypto (crypto ETFs/stocks OK), thesis + catalyst documented in
+today's RESEARCH-LOG, reasonable vs. account size).
 This is a pre-check — the real gate runs inside the wrapper at STEP 4.
 
 STEP 4 — Execute the buys (market orders, day TIF):
@@ -48,3 +50,7 @@ state, not journal history.
 
 STEP 7 — Notification: only if a trade was placed or rejected.
   bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>"
+
+STEP 8 — Save logs to claude/memory (never to main):
+  bash scripts/memory-sync.sh push "market-open trades $DATE"
+If it exits non-zero, show the user the error. Never force-push.

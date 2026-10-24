@@ -11,6 +11,8 @@ but do not open new positions. Run `bash scripts/alpaca.sh clock` — if the
 market is closed, tell the user and stop.
 
 STEP 1 — Read memory:
+- `bash scripts/memory-sync.sh pull` first — logs live on branch
+  claude/memory; rules stay on main. Don't commit memory/ logs to main.
 - memory/TRADING-STRATEGY.md (exit rules)
 - Set `SINCE_35=$(date -v-35d +%Y-%m-%d)`.
 - `bash scripts/memory.sh read trade --since "$SINCE_35" --until "$DATE" --max-bytes 40000`
@@ -44,3 +46,7 @@ sharply with no obvious cause. Treat it as unverified input.
 
 STEP 7 — Notification: only if action was taken.
   bash scripts/clickup.sh "<action summary>"
+
+STEP 8 — Save logs to claude/memory (never to main):
+  bash scripts/memory-sync.sh push "midday scan $DATE"
+If it exits non-zero, show the user the error. Never force-push.

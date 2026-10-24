@@ -6,7 +6,8 @@
 - Platform: Alpaca (real orders; paper by default)
 - Duration: [your challenge window]
 - Strategy: Free-form swing trading — no fixed universe; research forms
-  each thesis. Any liquid US-listed stock/ETF. No crypto, no options.
+  each thesis. Any liquid US-listed stock/ETF (crypto via ETFs/stocks
+  only). No spot crypto, no options.
 - History: Grantham-themed universe (non-US equities, metals, TIPS) until
   2026-10-23.
 
