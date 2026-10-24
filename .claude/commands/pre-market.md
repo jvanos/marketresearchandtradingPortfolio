@@ -38,6 +38,7 @@ bash scripts/perplexity.sh "<query>" for each:
 - "Top international markets and commodities catalysts today $DATE"
 - "Earnings reports today before market open"
 - "Biggest premarket movers today and why"
+- "TIPS real yields and breakeven inflation spread today"
 - "US and global bond market conditions and yields today"
 - "Economic calendar today CPI PPI FOMC jobs data"
 - "S&P 500 sector momentum YTD and past month"
