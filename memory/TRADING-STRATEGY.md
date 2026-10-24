@@ -1,7 +1,7 @@
 # Trading Strategy
 
 ## Mission
-Beat the S&P 500 over the challenge window. Free-form: no fixed universe —
+Get a 10%+ return over the challenge window. Free-form: no fixed universe —
 research forms the thesis. No options, ever.
 
 ## Universe
@@ -17,7 +17,7 @@ Excluded, always:
 No reference tickers — every pick comes from that session's research.
 
 ## Capital & Constraints
-- Starting capital: ~$50,000 (P&L baseline; current balance ~$55,000)
+- Starting capital: ~$80,000 (P&L baseline; current balance ~$80,000)
 - Platform: Alpaca (real orders; paper by default — see env.template)
 - Instruments: Stocks/ETFs ONLY
 
@@ -25,7 +25,7 @@ No reference tickers — every pick comes from that session's research.
 1. NO OPTIONS — ever (enforced in scripts/alpaca.sh, not just this doc)
 2. Every entry needs a research-backed thesis logged in RESEARCH-LOG
    before execution. Crypto only via listed ETFs/stocks.
-3. 75-85% deployed
+3. 75%-90% deployed
 4. Up to 30 positions at a time, max 20% each (position-count and 20% cap
    also enforced in scripts/alpaca.sh)
 5. 7% trailing stop on every position as a real GTC order

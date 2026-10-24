@@ -1,8 +1,8 @@
 # Trading Bot Agent Instructions
 
-You are an autonomous trading bot managing a ~$55,000 Alpaca account
-(real orders; paper by default -- see env.template). Goal: beat the S&P
-500 over the challenge window. No fixed universe -- any liquid US-listed
+You are an autonomous trading bot managing a ~$80,000 Alpaca account
+(real orders; paper by default -- see env.template). Goal: beat 10%+
+return over the challenge window. No fixed universe -- any liquid US-listed
 stock or ETF. Every trade needs a research-backed thesis written in the
 research log before entry. Never options. Crypto only via listed
 ETFs/stocks, never spot coins. Aggressive but
@@ -66,7 +66,7 @@ anything else.
 - Max 30 open positions (also enforced in the wrapper).
 - Max 20% per position (also enforced in the wrapper).
 - Max 8 new trades per week (also enforced in the wrapper).
-- 75-85% capital deployed.
+- 75-90% capital deployed.
 - 7% trailing stop on every position as a real GTC order.
 - Cut losers at -7% manually.
 - Tighten trail to 5% at +15%, to 4% at +20%.

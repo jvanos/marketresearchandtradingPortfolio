@@ -15,6 +15,8 @@ Format each entry:
 - US Dollar Index (DXY):
 - VIX:
 - WTI / Brent:
+- TIPS spread:
+- Bond curve yields:
 - Gold / oil / broad commodities:
 - Today's catalysts:
 - Earnings before open:

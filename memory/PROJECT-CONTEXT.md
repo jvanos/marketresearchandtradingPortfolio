@@ -2,9 +2,9 @@
 
 ## Overview
 - What: Autonomous trading bot challenge
-- Starting capital: ~$50,000 (P&L baseline; current balance ~$55,000)
+- Starting capital: ~$80,000 (P&L baseline; current balance ~$80,000)
 - Platform: Alpaca (real orders; paper by default)
-- Duration: [your challenge window]
+- Duration: 30 days
 - Strategy: Free-form swing trading — no fixed universe; research forms
   each thesis. Any liquid US-listed stock/ETF (crypto via ETFs/stocks
   only). No spot crypto, no options.
