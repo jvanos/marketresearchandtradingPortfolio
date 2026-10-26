@@ -5,7 +5,8 @@
 #   - price <= entry      -> fixed stop at entry -7%
 #   - price >  entry      -> trailing stop 7% (5% at +15%, 4% at +20%),
 #                            which always sits above entry -7%
-# Positions that already have a stop order are left alone.
+# Positions that already have a stop order are left alone. Safe to run while
+# the market is closed: orders queue for the next open.
 # Usage: bash scripts/set-stops.sh [--dry-run]
 
 set -euo pipefail
@@ -38,11 +39,11 @@ def floor_price(p):
     # Alpaca tick: 2 decimals >= $1, 4 below. Round down for a sell stop.
     return f"{math.floor(p * 100) / 100:.2f}" if p >= 1 else f"{math.floor(p * 10000) / 10000:.4f}"
 
-if not alpaca("clock")["is_open"]:
-    print("Market closed -- run during market hours.")
-    sys.exit(0)
-
 pre = "[dry-run] " if DRY else ""
+if not alpaca("clock")["is_open"]:
+    # GTC stops are accepted now and go live at the open; closes queue as
+    # market orders for the open. Decisions use the last trade price.
+    print("Market closed -- orders will queue for the next open (prices below are last trade).")
 has_stop = stopped_symbols()
 out, bad, cut = [], [], set()
 
