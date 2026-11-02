@@ -44,3 +44,106 @@ No positions yet. Bot launches tomorrow.
 - STOP  XLI entry $167.99 now $167.12 (-0.5%) -- 1 sh, stop $156.23 (entry -7%)
 - Unprotected fractions: AAPL, GOOGL, QQQM, SCHD, SPMO, VGK, VOO
 - Near cut (-7%): SIVR -6.6%, WULF -6.7%
+
+> **[Imported (2026-10-28 → 2026-10-30) from the parallel Grantham-framed `claude/memory` branch to close the gap left when this repo's logs stopped at 10-27. These entries were authored under the superseded **Grantham-universe** rulebook — remarks such as "non-compliant universe / human review pending" and the "10% trail" rule reflect that OLD framing, not the free-form $80k strategy. The account activity (trades, stop-out fills, EOD snapshots, prices) is the real live-account record.]**
+
+## 2026-10-28 — Midday Actions
+- EXIT SIVR 32 sh: market sell submitted 17:16 UTC at ~$50.96 (entry $54.85), ~-7.1% (~-$124), cut at -7% per rule. Position gone from Alpaca; fill price approximate.
+- No winners >= +15% — no tightening. No thesis breaks. Remaining 27 positions all have trailing stops.
+
+## 2026-10-28 — EOD Snapshot (Day N/A, Wednesday)
+**Portfolio:** $79,569.56 | **Cash:** $40,358.92 (50.7%) | **Day P&L:** -$34.48 (-0.04%) | **Phase P&L:** -$430.44 (-0.54%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $345.53 | -0.45% | +7.57 (+0.37%) | $329.82 |
+| AMZN | 7 | $261.56 | $255.00 | +0.75% | -45.92 (-2.51%) | none |
+| BRK.B | 13 | $541.97 | $540.61 | -0.44% | -17.68 (-0.25%) | $528.58 |
+| BTC | 35 | $37.36 | $36.03 | +1.04% | -46.55 (-3.56%) | none |
+| COWZ | 1 | $70.81 | $70.51 | -0.08% | -0.30 (-0.42%) | $67.78 |
+| EWG | 5 | $41.72 | $41.80 | +0.67% | +0.40 (+0.19%) | $40.18 |
+| FLJP | 11 | $40.73 | $40.43 | -0.30% | -3.30 (-0.74%) | $38.93 |
+| GLDM | 120 | $81.69 | $80.60 | +0.35% | -130.80 (-1.33%) | $78.20 |
+| GOOGL | 4.0133 | $334.31 | $300.74 | -6.19% | -134.74 (-10.04%) | $313.35 |
+| HODL | 30 | $23.89 | $23.05 | +1.05% | -25.20 (-3.52%) | $22.13 |
+| QQQM | 1.5 | $298.95 | $298.15 | +0.40% | -1.20 (-0.27%) | $287.01 |
+| SCHD | 97.1816 | $34.62 | $35.13 | +0.03% | +49.56 (+1.47%) | $33.77 |
+| SCHG | 3 | $35.88 | $35.55 | +0.14% | -0.99 (-0.92%) | $34.09 |
+| SGOV | 10 | $100.62 | $100.69 | +0.01% | +0.70 (+0.07%) | $96.67 |
+| SMH | 1 | $557.03 | $567.40 | +1.69% | +10.37 (+1.86%) | $548.16 |
+| SOXX | 1 | $511.15 | $520.56 | +1.86% | +9.41 (+1.84%) | $504.02 |
+| SPMO | 5.008 | $143.30 | $144.03 | +1.02% | +3.66 (+0.51%) | $138.60 |
+| VGK | 12.2667 | $87.55 | $87.73 | +0.79% | +2.21 (+0.21%) | $83.63 |
+| VGT | 4 | $122.33 | $123.83 | +0.85% | +6.00 (+1.23%) | $118.28 |
+| VNQI | 1 | $42.69 | $42.35 | -0.98% | -0.34 (-0.80%) | $40.85 |
+| VOO | 2.1264 | $710.69 | $709.52 | +0.28% | -2.49 (-0.17%) | $677.43 |
+| VTI | 3 | $379.19 | $379.01 | +0.29% | -0.54 (-0.05%) | $364.48 |
+| VTV | 13 | $224.72 | $226.94 | +0.32% | +28.85 (+0.99%) | $217.10 |
+| WQTM | 10 | $28.58 | $28.62 | +0.10% | +0.40 (+0.14%) | $27.83 |
+| XLB | 5 | $51.27 | $51.98 | +0.39% | +3.55 (+1.39%) | $49.95 |
+| XLE | 1 | $68.21 | $68.42 | +0.31% | +0.21 (+0.31%) | $66.17 |
+| XLI | 1 | $167.99 | $168.88 | +0.57% | +0.89 (+0.53%) | $160.82 |
+**Notes:** Flat day (-$34). SIVR cut at -7% midday (~-$124). WULF no longer in positions (exit not logged; unverified). GOOGL -6.4% on day (-10.3% unrealized), stop $313.35 sits above price at $299.94 — check for stop trigger/fill. 25 of 27 positions now carry trailing stops (3-5%, tighter than the 10% rule); AMZN and BTC have none. Phase P&L vs $80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
+
+## 2026-10-29 — Market Open Trades
+- No new buys (research decision: HOLD, PCE/ECB/AMZN-earnings day).
+- GOOGL GTC trail triggered at open on gap: ~4 sh sold ~$290 (~-13%); 0.0133 sh fractional remnant left.
+- STOPS ADDED: AMZN 7 sh, BTC 35 sh — 7% trailing, GTC (were unprotected; AMZN reports after close tonight). AMZN ref ~$244.91, BTC ~$35.40.
+- Open Positions table: GOOGL ~closed (0.0133 sh remnant); AMZN/BTC now have trail stops.
+
+## 2026-10-29 — Midday Actions
+- EXIT GOOGL 0.0133 sh remnant: close at ~$284.51 (entry $334.31), -14.9%, cut at -7% per rule. Fractional leftover of morning stop-out.
+- No winners >= +15% — no tightening. AMZN -6.0% (stop 7% trail, earnings tonight) — watch, not yet at cut line. No thesis breaks. WULF absent from positions (exit never logged). All remaining 25 positions carry trailing stops.
+
+## 2026-10-29 — EOD Snapshot (Day N/A, Thursday)
+**Portfolio:** $79,255.14 | **Cash:** $41,772.44 (52.7%) | **Day P&L:** -$403.77 (-0.51%) | **Phase P&L:** -$744.86 (-0.93%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $351.00 | +2.08% | +40.44 (+1.96%) | $333.86 |
+| AMZN | 7 | $261.56 | $227.60 | -10.61% | -237.72 (-12.98%) | $231.70 |
+| BRK.B | 13 | $541.97 | $545.00 | +0.86% | +39.39 (+0.56%) | $532.31 |
+| BTC | 35 | $37.36 | $35.49 | -1.50% | -65.45 (-5.00%) | $33.67 |
+| COWZ | 1 | $70.81 | $71.08 | +0.81% | +0.27 (+0.38%) | $68.23 |
+| EWG | 5 | $41.72 | $42.41 | +1.46% | +3.45 (+1.65%) | $40.72 |
+| FLJP | 11 | $40.73 | $40.38 | -0.12% | -3.85 (-0.86%) | $38.93 |
+| GLDM | 120 | $81.69 | $79.66 | -1.17% | -243.60 (-2.48%) | $78.20 |
+| HODL | 30 | $23.89 | $22.70 | -1.52% | -35.70 (-4.98%) | $22.20 |
+| QQQM | 1.5 | $298.95 | $290.76 | -2.66% | -12.29 (-2.74%) | $287.01 |
+| SCHD | 97.1816 | $34.62 | $35.74 | +1.85% | +108.91 (+3.24%) | $34.20 |
+| SCHG | 3 | $35.88 | $34.90 | -2.02% | -2.94 (-2.73%) | $34.09 |
+| SGOV | 10 | $100.62 | $100.70 | +0.01% | +0.85 (+0.08%) | $96.68 |
+| SMH | 1 | $557.03 | $545.98 | -3.82% | -11.05 (-1.98%) | $548.16 |
+| SOXX | 1 | $511.15 | $495.49 | -5.07% | -15.66 (-3.06%) | $504.02 |
+| SPMO | 5.008 | $143.30 | $140.30 | -3.17% | -15.02 (-2.09%) | $138.60 |
+| VGK | 12.2667 | $87.55 | $88.50 | +1.36% | +11.65 (+1.08%) | $84.27 |
+| VGT | 4 | $122.33 | $121.00 | -2.10% | -5.32 (-1.09%) | $118.28 |
+| VNQI | 1 | $42.69 | $42.66 | +0.73% | -0.03 (-0.07%) | $40.85 |
+| VOO | 2.1264 | $710.69 | $703.72 | -0.87% | -14.82 (-0.98%) | $677.43 |
+| VTI | 3 | $379.19 | $377.53 | -0.43% | -4.97 (-0.44%) | $364.48 |
+| VTV | 13 | $224.72 | $228.88 | +0.85% | +54.07 (+1.85%) | $218.62 |
+| XLB | 5 | $51.27 | $52.53 | +1.29% | +6.30 (+2.46%) | $50.43 |
+| XLE | 1 | $68.21 | $69.10 | +0.95% | +0.89 (+1.31%) | $66.45 |
+| XLI | 1 | $167.99 | $170.81 | +1.38% | +2.82 (+1.68%) | $161.86 |
+**Notes:** Down day (-$404). No new buys. GOOGL stopped out at open on gap (~-13%) and remnant closed midday; AMZN/BTC trail stops added (7%). AMZN -13.1% unrealized, -10.7% on day ahead of tonight's earnings (stop ~$231.70 sits above price $227.31 — check fill/cut tomorrow). All 25 positions carry trailing stops. Phase P&L vs \$80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
+
+## 2026-10-30 — EOD Snapshot (Day N/A, Friday)
+**Portfolio:** $78,802.24 | **Cash:** $57,145.97 (72.5%) | **Day P&L:** -$452.90 (-0.57%) | **Phase P&L:** -$1,197.76 (-1.50%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $344.50 | -1.26% | +1.38 (+0.07%) | $333.86 |
+| BRK.B | 13 | $541.97 | $543.25 | +0.24% | +16.64 (+0.24%) | $533.96 |
+| COWZ | 1 | $70.81 | $71.37 | +0.41% | +0.56 (+0.79%) | $68.87 |
+| EWG | 5 | $41.72 | $41.88 | -1.25% | +0.80 (+0.38%) | $40.72 |
+| FLJP | 11 | $40.73 | $39.59 | -1.96% | -12.54 (-2.80%) | $38.93 |
+| QQQM | 0.5 | $298.95 | $284.71 | -3.33% | -7.12 (-4.76%) | none (fractional remnant) |
+| SCHD | 97.1816 | $34.62 | $35.80 | +0.53% | +114.63 (+3.41%) | $34.65 |
+| SGOV | 10 | $100.62 | $100.74 | +0.03% | +1.20 (+0.12%) | $96.71 |
+| SPMO | 0.008 | $143.30 | $136.38 | -4.23% | -0.06 (-4.83%) | none (fractional remnant) |
+| VGK | 12.2667 | $87.55 | $87.54 | -0.68% | -0.12 (-0.01%) | $84.27 |
+| VNQI | 1 | $42.69 | $42.70 | +0.09% | +0.01 (+0.02%) | $40.85 |
+| VOO | 2.1264 | $710.69 | $695.54 | -1.67% | -32.21 (-2.13%) | $677.43 |
+| VTI | 3 | $379.19 | $372.31 | -1.57% | -20.65 (-1.82%) | $364.48 |
+| VTV | 13 | $224.72 | $228.02 | -0.38% | +42.89 (+1.47%) | $219.75 |
+| XLB | 5 | $51.27 | $52.74 | +0.40% | +7.35 (+2.87%) | $50.67 |
+| XLE | 1 | $68.21 | $69.99 | +1.86% | +1.78 (+2.61%) | $67.34 |
+| XLI | 1 | $167.99 | $167.40 | -1.61% | -0.59 (-0.35%) | $161.86 |
+**Notes:** Down day (-$453), sharp tech/growth selloff. No buys; 10 sells, all stop-outs except BTC: SMH, SOXX, QQQM (1 of 1.5 sh), GLDM 120, AMZN 7 (@232.02, post-earnings), HODL 30, SPMO (5 sh), VGT 4 via trailing stops 13:30-13:34 ET; SCHG 3 stop filled 18:17 UTC; BTC 35 market-sold @34.06 (~-8.8%). Cash up to 72.5% (below the 75-85% deployed target is violated the other way: only ~27.5% deployed). Two fractional remnants (QQQM 0.5, SPMO 0.008) carry no stops; clean up Monday. 17 positions remain, all else carry trailing stops. Phase P&L vs $80k account start. Universe still non-compliant with CLAUDE.md (US stocks/ETFs, crypto-linked held) — human review pending.
