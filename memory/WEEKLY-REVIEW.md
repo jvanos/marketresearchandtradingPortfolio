@@ -122,3 +122,59 @@ Cash $57,145.97 (72.5%); 17 positions.
 
 ### Overall Grade: D+
 (-0.55% ≈ S&P, but 0 winners, large gap losses, 27.5% deployed, no buys.)
+
+## Week ending 2026-11-06
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $78,802.24 (Oct 30 close, prior acct; Nov 2-5 not logged on this branch) |
+| Ending portfolio | $55,021.83 |
+| Week return | not meaningful: -$23,780 (-30.2%) is acct swap (new acct PA358Z3OS created Nov 6 19:05Z, ~$55k); -$127 (-0.23%) vs its last_equity $55,149 |
+| S&P 500 week | -2.68% (7,376.86; 4th straight weekly loss) |
+| Bot vs S&P | n/a (no valid baseline) |
+| Trades | 0 by bot (W:0 / L:0 / open:0) |
+| Win rate | n/a |
+| Best trade | n/a |
+| Worst trade | n/a |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|---|---|---|---|---|
+| none logged | — | — | — | No Nov 2-6 trades/fills in this branch's logs; prior acct's book not reconcilable |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|---|---|---|---|---|
+| BRK.B 20 | $574.84 | $570.91 | -$78.68 | 5% trail (placed 21:44Z, not by this log) |
+| GLDM 110 | $80.42 | ~$80.6 | ~+$20 | 5% trail |
+| SCHD 97 / VTV 13 | $35.27 / $223.66 | — | ~-$7 each | 5% trail |
+| AAPL 6 / AMZN 5 / GOOGL 2 | various | — | -$9.60 / -$9.60 / ~-$1 | 5% trail |
+| Sector/other ETFs (XL*, VOO, VTI, SMH, SPMO, VGT, VGK, SIVR, SGOV, REZ, SCHG, VNQI, WQTM) | various | — | ~flat | 5% trail |
+| BTC 40.06 / COWZ 1.03 / EWG 5.02 / FLJP 10.94 / WULF 9.86 | various | — | small | none (fractional) |
+Cash $10,516.55 (~19%); deployed ~81%. 24 trailing stops all 5% (rule: 7%).
+
+### What Worked
+- Existing book roughly flat (-0.23%) vs S&P -2.68% on Thu rout.
+- 5% GTC trails now on all full positions (placed 21:44Z).
+
+### What Didn't Work
+- Account does not match repo: $55k acct vs $80k baseline; ~26 inherited positions, none from this bot's research log.
+- No thesis logged for any held position (strategy rule 2).
+- Stops are 5%, not 7%; fractional positions unstopped.
+- Nov 2-5 logs missing on this branch; prior-account book (PA3Q1U9Y8) cannot be reconciled to the new account.
+
+### Key Lessons
+- Re-anchor baseline before grading; account swap invalidates P&L vs $80k.
+- Verify GITHUB_REPO / repo / account all point to the same setup before routines run (Grantham vs Portfolio mixup).
+
+### Adjustments for Next Week
+- HUMAN FIRST: confirm PA358Z3OS is the intended account and set baseline (~$55k) in PROJECT-CONTEXT/STRATEGY.
+- Decide on inherited positions: log theses or exit; stops to 7% per rule.
+- Deploy remaining cash only with logged thesis, after rout stabilizes.
+
+### Proposed Strategy Changes
+- None to rules. Human to update baseline capital if the $55k account is intended.
+
+### Overall Grade: INC (C- if forced; capital preserved vs S&P, no bot activity)
