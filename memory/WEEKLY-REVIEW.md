@@ -178,3 +178,7 @@ Cash $10,516.55 (~19%); deployed ~81%. 24 trailing stops all 5% (rule: 7%).
 - None to rules. Human to update baseline capital if the $55k account is intended.
 
 ### Overall Grade: INC (C- if forced; capital preserved vs S&P, no bot activity)
+
+### Human Decision (2026-11-06, post-review)
+- PA358Z3OS confirmed as the correct account; baseline ~$55k (last_equity $55,149).
+- Inherited positions kept as-is; existing 5% trailing stops kept (human-approved override of the 7% rule for these positions). Rule text in TRADING-STRATEGY.md on main unchanged.
