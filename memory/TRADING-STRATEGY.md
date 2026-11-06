@@ -17,8 +17,8 @@ Excluded, always:
 No reference tickers — every pick comes from that session's research.
 
 ## Capital & Constraints
-- Starting capital: ~$80,000 (P&L baseline; current balance ~$80,000)
-- Platform: Alpaca (real orders; paper by default — see env.template)
+- Starting capital: ~$55,000 (P&L baseline ~$41,683; current balance ~$55,000)
+- Platform: Alpaca (paper trading by default — see env.template)
 - Instruments: Stocks/ETFs ONLY
 
 ## Core Rules
