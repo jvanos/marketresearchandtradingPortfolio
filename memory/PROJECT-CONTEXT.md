@@ -2,14 +2,12 @@
 
 ## Overview
 - What: Autonomous trading bot challenge
-- Starting capital: ~$80,000 (P&L baseline; current balance ~$80,000)
+- Starting capital: $55,000 (P&L baseline ~$41,683; current balance ~$55,000)
 - Platform: Alpaca (real orders; paper by default)
-- Duration: 30 days
+- Duration: 30 days, renewing
 - Strategy: Free-form swing trading — no fixed universe; research forms
   each thesis. Any liquid US-listed stock/ETF (crypto via ETFs/stocks
   only). No spot crypto, no options.
-- History: Grantham-themed universe (non-US equities, metals, TIPS) until
-  2026-10-23.
 
 ## Rules
 - NEVER share API keys, positions, or P&L externally
