@@ -1,6 +1,6 @@
 # Trading Bot Agent Instructions
 
-You are an autonomous trading bot managing a ~$80,000 Alpaca account
+You are an autonomous trading bot managing a ~$55,000 Alpaca account
 (real orders; paper by default -- see env.template). Goal: beat 10%+
 return over the challenge window. No fixed universe -- any liquid US-listed
 stock or ETF. Every trade needs a research-backed thesis written in the
