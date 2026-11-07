@@ -245,3 +245,45 @@ HOLD on new entries — do not add risk into FOMC + mega-cap-earnings week (3 he
 
 ### Decision
 **HOLD on new entries.** No clean edge: a fragile relief bounce into a binary midterm vote (Tue), AAPL earnings tonight and Fri jobs make fresh risk low-edge, and sector/theme momentum is weak-to-reversing (energy rolling over, intl negative, gold sub-$4k). The one-day dollar-weakness tailwind isn't enough alone. Priority is defensive and belongs to execution routines: standardize 7% GTC stops, close QQQM/SPMO remnants, and reconcile the trade log to live. Watch GDX (needs gold to reclaim $4,000) and value/dividend relative strength as the cleanest redeploy candidates once the bounce holds post-midterms — redeploying toward the 75-90% band is the week's main objective. Patience > activity.
+
+## 2026-11-07 — Research (Saturday, OFF-SCHEDULE / market closed — run on user request)
+
+> **Run context:** Ad-hoc run requested by user outside the normal pre-market cron; **market is CLOSED (weekend)** so no orders are possible — this is research/positioning only. All prices are **Friday 2026-11-06 close**. **Account note:** live Alpaca account is now **PA358Z3OS** (equity $55,062, 29 positions, created 2026-11-06 19:05 UTC) — a different, newly-seeded ~$55k book than the PA3Q1U9Y8 account ($78.7k, 11 pos) that earlier runs referenced. This matches the prompt's "~$55,000" framing. Branch: this memory is `claude/memory` on jvanos/marketresearchandtradingPortfolio.
+
+### Account (live, PA358Z3OS)
+- Equity: $55,062 | Cash: $10,517 (19.1%) | Buying power: $10,517 (1x, no margin)
+- Position mkt value: $44,545 (**80.9% deployed — within the 75-90% band; deployment is healthy, not a drag**)
+- Overnight/last: equity -$87 (-0.16%) vs last_equity $55,149.
+- **29 positions (near the 30 cap).** 24 of 29 carry **5% GTC trailing stops** (exp ~2027). **5 positions carry NO stop: BTC, COWZ, EWG, FLJP, WULF** — highest-priority housekeeping. Trails are 5%, NOT the strategy's 7% GTC rule.
+- **Concentration flag: BRK.B $11,418 = 20.7% of equity → over the 20% cap** (existing drift; wrapper blocks new adds). GLDM 110sh $8,876 = 16.1% (2nd largest).
+- All P&L near flat (book seeded 11-06): best WULF +2.0%, GLDM +0.3%, BTC +0.2%; worst AMZN -0.8%, BRK.B -0.7%, WQTM -0.6%. **None past -7% cut; none at +15% tighten.**
+
+### Market Context (Friday 11-06 close)
+- **HOT jobs report:** Oct NFP **+165k** (vs ~65k cons), unemployment **4.1%** (down from 4.2%). Strong labor read → supports higher-for-longer; market now prices **~75% odds of a 25bp Fed HIKE in December**. Inflation-surprise risk is the dominant near-term driver.
+- **Friday equities rebounded, tech-led:** S&P 500 **+0.3%** (7,376.86), **Nasdaq +1.1%** (NVDA +4.3%, GOOGL +1.8%, META +2.9%, TSLA +4.5%), **Dow -0.5%** (defensives lagged — WMT, HD). **But the week was ugly: Dow -0.94%, S&P -2.68%, Nasdaq -3.37%** on the Thu AI/semi rout. **VIX ~25.3** — elevated, off Thu's 28 spike.
+- **USD:** DXY **~101.8**. **Yields:** US 10yr **~4.86%** (hot NFP keeps long end firm). **Gold $4,062**, **Silver $51.90**, **Copper $6.22 (soft)**, WTI ~$90.
+- **Bitcoin ~$76k, fragile** (down from >$81k); key support $75-76k, break risks $73k/$71k. **Nov 11 MSCI decision on Strategy (MSTR)** a crypto catalyst. Miner economics bifurcated (hashprice ~$30.9 vs ~$35 breakeven for old rigs).
+- **Next week catalysts:** **Tue 11/10 Oct CPI** (cons +0.3% headline / +0.2% core) = the binary print; **Fri 11/13 Oct PPI**; heavy Fed-speaker slate (Bowman, Goolsbee, Barkin, Daly, Williams, Jefferson); earnings Mon (Barrick, Constellation, Oxy, KKR), **Thu Cisco + Applied Materials**.
+- **Momentum:** Friday leadership = **growth/mega-cap tech** (QQQ +1.93%, XLK +2.13%, XLC +1.1%); value/defensive/staples lagged. Weekly momentum still negative post-rout. Semis were the week's wreck (rule-11 caution).
+
+### Positions / Risk Status
+- **No holding past the -7% cut line; none >= +15%** — no forced cuts or trail-tightens due.
+- **5 unstopped positions (BTC, COWZ, EWG, FLJP, WULF)** = the one real risk gap — a filled position with no stop is the state to never leave open.
+- **BRK.B 20.7%** over the per-position cap; **GLDM 16.1%** — two concentrated names.
+- Crypto-linked exposure: BTC (ETF, ~$1.34k) + WULF (miner, ~$112) — small, but BTC fragile sub-$76k.
+
+### Trade Ideas
+1. **Housekeeping FIRST (execution routine, not new entries), to run at next market open:** (a) **place 7% GTC trailing stops on the 5 unstopped names** (BTC, COWZ, EWG, FLJP, WULF); (b) standardize the 24 existing 5% trails toward the **7% GTC** rule; (c) **no adds to BRK.B** (over 20%) — trim candidate if it extends. Highest-value, lowest-risk actions.
+2. **Mega-cap tech / growth (QQQ, XLK, or NVDA/GOOGL/META)** — catalyst: Friday's clear leadership held through a hot NFP; already hold SMH/VGT/SCHG/GOOGL/AAPL/AMZN. **BUT** Nasdaq -3.4% on the week, VIX 25, and **CPI Tue is binary with ~75% Dec-hike priced** — a hot CPI pressures growth/duration most. **Conditional — do NOT chase into the CPI print; reassess post-CPI.**
+3. **Gold (GLDM, already 16%) / Silver (SIVR held)** — cleanest defensive; gold $4,062 holding above $4k. **BUT** already a large position, and hot NFP + firm yields + possible Dec hike are a headwind. **Hold, don't add.** Silver high-beta near highs — no add.
+
+### Risk Factors
+- **Hot NFP (+165k) + ~75% Dec-hike pricing + CPI Tue 11/10** = pre-CPI new risk is low-edge; a hot CPI would lift yields/dollar and pressure the book's growth + metals sleeves.
+- **VIX ~25** after a -2.7% S&P / -3.4% Nasdaq week — sentiment fragile; Friday's bounce may be a relief rally, not a trend.
+- **5 unstopped positions** and **BRK.B 20.7% concentration** are internal risks independent of the tape.
+- **Bitcoin fragile sub-$76k** (BTC/WULF exposure); Nov 11 MSCI/MSTR decision a wildcard.
+- **29/30 positions** — little room to add without trimming; focus should be quality/risk-management over new entries.
+- **Governance/setup note:** account was swapped to a fresh ~$55k book (PA358Z3OS) on 11-06; prior memory narratives (Grantham $78.7k book) do not describe this live book. Portfolio memory is also ~4 trading days behind (last entry 11-02). Treat live Alpaca state as ground truth.
+
+### Decision
+**HOLD on new entries** (and market is closed regardless). A hot jobs report into ~75% Dec-hike pricing, a binary CPI on Tuesday, and VIX ~25 after a sharp down week make fresh risk low-edge. The actionable priority is defensive and belongs to the next market-open execution run: **stop-protect the 5 unstopped positions (BTC, COWZ, EWG, FLJP, WULF) with 7% GTC trails, standardize the 5%→7% trails, and hold BRK.B's 20.7% at no-add.** Watch **mega-cap tech / QQQ** and **gold** post-CPI as the cleanest momentum/defensive setups. Patience > activity.
