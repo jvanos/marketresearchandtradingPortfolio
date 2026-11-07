@@ -254,7 +254,7 @@ HOLD on new entries — do not add risk into FOMC + mega-cap-earnings week (3 he
 - Equity: $55,062 | Cash: $10,517 (19.1%) | Buying power: $10,517 (1x, no margin)
 - Position mkt value: $44,545 (**80.9% deployed — within the 75-90% band; deployment is healthy, not a drag**)
 - Overnight/last: equity -$87 (-0.16%) vs last_equity $55,149.
-- **29 positions (near the 30 cap).** 24 of 29 carry **5% GTC trailing stops** (exp ~2027). **5 positions carry NO stop: BTC, COWZ, EWG, FLJP, WULF** — highest-priority housekeeping. Trails are 5%, NOT the strategy's 7% GTC rule.
+- **29 positions (near the 30 cap).** 24 of 29 carry **5% GTC trailing stops** (exp ~2027). **5 positions carry NO stop: BTC, COWZ, EWG, FLJP, WULF** — highest-priority housekeeping. (Per the **recorded human decision 2026-11-06**, the 5% trails are a human-approved override of the 7% rule for this book and are to be **kept** — so housekeeping = add 5% stops to the 5 bare names, NOT re-standardize to 7%.)
 - **Concentration flag: BRK.B $11,418 = 20.7% of equity → over the 20% cap** (existing drift; wrapper blocks new adds). GLDM 110sh $8,876 = 16.1% (2nd largest).
 - All P&L near flat (book seeded 11-06): best WULF +2.0%, GLDM +0.3%, BTC +0.2%; worst AMZN -0.8%, BRK.B -0.7%, WQTM -0.6%. **None past -7% cut; none at +15% tighten.**
 
@@ -273,7 +273,7 @@ HOLD on new entries — do not add risk into FOMC + mega-cap-earnings week (3 he
 - Crypto-linked exposure: BTC (ETF, ~$1.34k) + WULF (miner, ~$112) — small, but BTC fragile sub-$76k.
 
 ### Trade Ideas
-1. **Housekeeping FIRST (execution routine, not new entries), to run at next market open:** (a) **place 7% GTC trailing stops on the 5 unstopped names** (BTC, COWZ, EWG, FLJP, WULF); (b) standardize the 24 existing 5% trails toward the **7% GTC** rule; (c) **no adds to BRK.B** (over 20%) — trim candidate if it extends. Highest-value, lowest-risk actions.
+1. **Housekeeping FIRST (execution routine, not new entries), to run at next market open:** (a) **place 5% GTC trailing stops on the 5 unstopped names** (BTC, COWZ, EWG, FLJP, WULF) — matching the human-approved 5% standard for this book; (b) **leave the 24 existing 5% trails as-is** (human decision 11-06 keeps 5%, do not re-standardize to 7%); (c) **no adds to BRK.B** (over 20%) — trim candidate if it extends. Highest-value, lowest-risk actions.
 2. **Mega-cap tech / growth (QQQ, XLK, or NVDA/GOOGL/META)** — catalyst: Friday's clear leadership held through a hot NFP; already hold SMH/VGT/SCHG/GOOGL/AAPL/AMZN. **BUT** Nasdaq -3.4% on the week, VIX 25, and **CPI Tue is binary with ~75% Dec-hike priced** — a hot CPI pressures growth/duration most. **Conditional — do NOT chase into the CPI print; reassess post-CPI.**
 3. **Gold (GLDM, already 16%) / Silver (SIVR held)** — cleanest defensive; gold $4,062 holding above $4k. **BUT** already a large position, and hot NFP + firm yields + possible Dec hike are a headwind. **Hold, don't add.** Silver high-beta near highs — no add.
 
@@ -286,4 +286,4 @@ HOLD on new entries — do not add risk into FOMC + mega-cap-earnings week (3 he
 - **Governance/setup note:** account was swapped to a fresh ~$55k book (PA358Z3OS) on 11-06; prior memory narratives (Grantham $78.7k book) do not describe this live book. Portfolio memory is also ~4 trading days behind (last entry 11-02). Treat live Alpaca state as ground truth.
 
 ### Decision
-**HOLD on new entries** (and market is closed regardless). A hot jobs report into ~75% Dec-hike pricing, a binary CPI on Tuesday, and VIX ~25 after a sharp down week make fresh risk low-edge. The actionable priority is defensive and belongs to the next market-open execution run: **stop-protect the 5 unstopped positions (BTC, COWZ, EWG, FLJP, WULF) with 7% GTC trails, standardize the 5%→7% trails, and hold BRK.B's 20.7% at no-add.** Watch **mega-cap tech / QQQ** and **gold** post-CPI as the cleanest momentum/defensive setups. Patience > activity.
+**HOLD on new entries** (and market is closed regardless). A hot jobs report into ~75% Dec-hike pricing, a binary CPI on Tuesday, and VIX ~25 after a sharp down week make fresh risk low-edge. The actionable priority is defensive and belongs to the next market-open execution run: **stop-protect the 5 unstopped positions (BTC, COWZ, EWG, FLJP, WULF) with 5% GTC trails (matching the human-approved 5% standard — the 11-06 decision keeps 5%, not 7%), and hold BRK.B's 20.7% at no-add.** Watch **mega-cap tech / QQQ** and **gold** post-CPI as the cleanest momentum/defensive setups. Patience > activity.
