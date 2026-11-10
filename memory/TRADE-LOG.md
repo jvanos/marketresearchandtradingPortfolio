@@ -55,3 +55,8 @@ No positions yet. Bot launches tomorrow.
 | XLV | 8 | $184.77 | $188.33 | +1.91% | +28.48 (+1.93%) | $179.48 |
 
 **Notes:** Up day (+$653), broad risk-on: WQTM +6.0%, SMH +5.0%, SPMO +4.4%, WULF +9.1%. No trades; 5% GTC trails added at open on BTC/COWZ/EWG/FLJP/WULF whole shares. 29 positions, all stopped (whole-share portion; fractional remainders unprotected). Day P&L/Phase P&L measured vs 11-06 close $55,008.02 of the new PA358Z3OS book (seeded 11-06); the prior $80k-book entries above (last 10-30) are a different account. BRK.B ~20.6% of equity, over cap, no adds. Trades this week: 0. Tomorrow: CPI, hold.
+
+## 2026-11-10 — Midday Actions
+- No -7% cuts (worst BTC -3.3%). No tightening (best WULF +10.6% <+15%). Thesis check: no breaks.
+- WULF 5% trail FILLED 14:33 UTC: sold 9 sh @ $12.08 (entry $11.13) = +$8.55 realized (+8.5%). Remaining 0.86 sh fractional, unstopped (Alpaca rejects fractional trails). Position count stays 29 (fraction).
+- All other 28 positions carry a 5% GTC trail (verified via orders).
