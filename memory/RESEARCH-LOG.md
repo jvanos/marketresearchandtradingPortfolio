@@ -160,3 +160,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD on new entries.** A binary CPI tomorrow into ~75% Dec-hike pricing, VIX ~24 after a sharp down week, and NVDA-driven semi/AI headline chaos make fresh risk low-edge. The book is already tilted the right way — gold (GLDM/SIVR), health care (XLV), staples (XLP), value/dividend (SCHD/VTV/VTI/VOO) — which is exactly the 1-month leadership. Actionable priority is defensive and belongs to the open routine: **stop-protect the 5 unstopped names with 5% GTC trails and hold BRK.B at no-add.** Watch **health care (XLV)** and **gold miners** as the cleanest post-CPI setups. Patience > activity.
+
+## 2026-11-10 — Pre-market Research (Tuesday — CPI DAY, the binary print)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,567 | Cash: $10,517 (18.9%) | Buying power: $10,517 (1x, no margin)
+- Position mkt value: $45,051 (**81% deployed — within the 75-90% band**)
+- Overnight: ~-$148 vs last_equity $55,715 (pre-CPI drift).
+- **29 positions. ALL 29 now carry stops (whole-share portion)** — the 5 prior unstopped names (BTC, COWZ, EWG, FLJP, WULF) were protected at Mon's open. Housekeeping gap CLOSED. Fractional remainders (BTC .06, COWZ .03, EWG .02, FLJP .936, WULF .86) remain unprotected (Alpaca rejects fractional trailing stops).
+- **Concentration: BRK.B 20 sh = $11,492 = 20.6% of equity → over 20% cap** (drift; wrapper blocks adds). GLDM 110 sh $8,872 = 15.9% (2nd).
+- P&L near flat; leaders WULF +10.8%, SMH +4.3%, SPMO +4.2%; worst BTC -1.7%, XLE -0.5%, BRK.B -0.04%. None past -7% cut; none >= +15% tighten.
+
+### Market Context
+- **S&P 500 futures: ES ~7,577-7,592 (+0.2%)**; Dow +0.5%, **Nasdaq ~flat** (NVDA/Huang drag). Oil slide lifting broad risk; relief rally continuing.
+- **Oct CPI 8:30 ET = THE binary event.** Cons: headline +0.3% m/m / +3.9% y/y; core +0.2% m/m / +2.8% y/y. **~85% odds of Dec Fed HIKE priced** — market max-sensitive to an upside surprise.
+- **Oil CRASHING: WTI ~$84.78 (-2.4%), Brent <$90 (first since Aug)** on Iran de-escalation (Trump: strikes "unlikely" with a deal). Brent -16% last wk. Cuts near-term inflation pressure (CPI-friendly) but pressures energy shares.
+- **Gold $4,116 (-0.6%), Silver $52.86 (-1.0%), Copper $6.31** — metals consolidating near resistance (~$4,170); hot CPI = headwind.
+- **USD: DXY ~101.6-101.7** (weak, -0.5% Mon); Fed-hike bets cap downside. **Yields: 10yr 4.89%, 2yr 4.61%** (firm, hot-NFP driven). **Bond market CLOSED Wed 11/11 (Veterans Day); equities open.**
+- **VIX ~20** — down from ~24; fear easing materially.
+- **International RISK-ON:** Nikkei +2.9% (60,460), DAX +1.7%, Stoxx 600 +1.3%, FTSE +1.0%. China Oct exports +35.2% y/y, imports +41.6%; US-China tariff truce extended. EWG/VGK/FLJP tailwind.
+- **Bitcoin ~$74,800** — below 200d EMA ($76.4k), cautious/bearish; spot-BTC-ETF outflows >$1.2B last wk. BTC/WULF exposure fragile.
+- **Catalysts:** Fed speakers Waller, Bowman, Logan, Schmid (Tue); CoreWeave/Rigetti earnings AC; **Fri 11/13 Oct PPI**. Premarket movers: SANM +19% (guidance), TTWO +4% (beat), HIMS -2% (soft guide), AMD +8.5% Mon (Oppenheimer upgrade, $600 PT).
+- **Sector momentum:** 1-mo leaders = **Consumer Staples, Health Care, Real Estate** (defensives); Energy YTD leader (+41%) but momentum fading; **Tech/Comms weakening sharply**. Book is tilted correctly — XLV, XLP, SCHD, VTV, GLDM.
+
+### Trade Ideas
+1. **No new entries into the CPI print (default).** The one housekeeping gap (5 unstopped names) is now CLOSED — all 29 positions carry stops. Hold **BRK.B at no-add** (20.6%, over cap; trim candidate only if it extends). Highest-value action is simply holding the correctly-tilted book through the binary print.
+2. **Health care (XLV, hold 8 sh) — cleanest post-CPI ADD candidate.** Thesis: strongest *sustained + recent* 1-mo relative strength, defensive character fits a higher-for-longer/VIX-easing tape. Catalyst: sector rotation into defensives + benign-CPI confirmation. **Conditional — do NOT add into the print; add only on a post-CPI hold.** Entry ~$189, stop -5% (~$179.6, book standard), target +10% (~$208, ~2:1).
+3. **Energy (XLE, hold 10 sh, 1.1%) — WATCH for exit, not add.** Thesis against: oil crashing (WTI $84.78, Brent <$90), XLE -9-12% from Oct 30 high, majors (XOM/CVX) not participating → market pricing weaker crude. Sector momentum deteriorated to near-term bearish. **Hold with its stop; if oil keeps sliding and XLE breaks, let the stop work / consider manual trim toward rule 11 (exit sector after failed trades).** No add.
+- **Avoid:** semi/AI re-entry (NVDA/Huang headline risk, SMH/VGT/SCHG already held); fresh crypto (BTC sub-200d, ETF outflows); fresh energy adds (oil reversing hard).
+
+### Risk Factors
+- **Oct CPI 8:30 ET into ~85% Dec-hike pricing** = the dominant binary. Hot print → yields/dollar up, pressures growth + metals (GLDM/SIVR) + the whole book; benign print → relief-rally extension.
+- **Oil free-fall** on Iran de-escalation is CPI-friendly but a direct drag on XLE; a Hormuz re-escalation would snap it back (two-way).
+- **NVDA/Jensen Huang governance probe** = live semi/AI headline risk (SMH/VGT/SCHG/SPMO exposure).
+- **Bitcoin fragile sub-$76.4k, ETF outflows** (BTC/WULF).
+- **BRK.B 20.6% concentration** = internal risk independent of tape.
+- **Veterans Day Wed** — bond market closed, thinner midweek liquidity.
+- **18.9% cash / 29 of 30 positions** — little room to add without trimming; quality/risk-mgmt > new entries.
+
+### Decision
+**HOLD — no new entries.** A binary Oct CPI at 8:30 into ~85% Dec-hike pricing is a bad spot to add fresh risk, and the book is already tilted into exactly the 1-month leadership (health care XLV, staples XLP, value/dividend SCHD/VTV, gold GLDM/SIVR) with defensive tape support (VIX 20, oil-driven relief rally, intl risk-on). Risk management is complete — all 29 positions now carry stops, BRK.B held at no-add. Watch **XLV** as the cleanest post-CPI add and **XLE** as a trim/exit candidate if oil keeps sliding. Patience > activity.
