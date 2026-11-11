@@ -200,3 +200,39 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** A binary Oct CPI at 8:30 into ~85% Dec-hike pricing is a bad spot to add fresh risk, and the book is already tilted into exactly the 1-month leadership (health care XLV, staples XLP, value/dividend SCHD/VTV, gold GLDM/SIVR) with defensive tape support (VIX 20, oil-driven relief rally, intl risk-on). Risk management is complete — all 29 positions now carry stops, BRK.B held at no-add. Watch **XLV** as the cleanest post-CPI add and **XLE** as a trim/exit candidate if oil keeps sliding. Patience > activity.
+
+## 2026-11-11 — Pre-market Research (Wednesday — Veterans Day, bond market CLOSED, equities open; post-hot-CPI)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,597.92 | Cash: $10,625.24 (19.1%) | Buying power: $10,625.24 (1x, no margin)
+- Position mkt value: $44,972.68 (**80.9% deployed — within the 75-90% band**)
+- Overnight: +$3.33 (+0.01%) vs last_equity $55,594.59 — flat.
+- **29 positions. 28 carry 5% GTC trailing stops (whole-share portion); verified via orders.** Only unstopped name = **WULF 0.86 sh ($11.52 fractional remnant)** — Alpaca rejects fractional trailing stops; trivial size. No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,541.60 = 20.76% of equity → over the 20% cap** (drift; wrapper blocks adds). GLDM 110 sh $8,801 = 15.8% (2nd).
+- P&L near flat; leaders WULF +20.4% (tiny frac), SMH +9.0%, SPMO +6.4%, WQTM +7.5%; worst BTC -2.4%, COWZ -0.6%, GLDM -0.5%. None past -7% cut; none whole-position >= +15% tighten.
+
+### Market Context
+- **Oct CPI (released Tue 11/10) ran HOT:** headline **+0.4% m/m** (vs +0.3% cons), core **+0.3% m/m** (vs +0.2% cons). Est ~3.8% headline / ~2.6% core y/y (shutdown-distorted). **Dec Fed HIKE now ~85% (25bp) + ~15% (50bp) priced** — a hike is near-certain; the debate is size.
+- **Yields spiked on the print:** 10yr ~**4.99%** (briefly >5%), 2yr ~**4.75%** at Tue close (+17bp). **Bond market CLOSED today (Veterans Day); equities open** → thinner midweek liquidity, no fresh cash-Treasury signal.
+- **S&P 500 futures ~7,603 (+0.78%); Nasdaq-100 fut +1.75%; Dow +0.07%. VIX ~18.6 (-4%).** Today is an **AI/semi-led risk-on bounce**: NVDA +4.2%, MU +6.4% premarket on **CoreWeave (+12.9%)** strong AI-capex outlook easing "AI-spend" fears; Anthropic IPO-filing headlines (NVDA/TSMC placement) reinforcing the AI supply chain.
+- **USD firm: DXY ~102.2-102.5** (4-wk high, +0.3-0.6%) on hot CPI; EUR/USD ~1.116, USD/JPY ~158.8.
+- **Commodities:** WTI ~**$86.6** / Brent ~**$92.4** — bouncing off 2-month lows (shipping-attack headlines vs Iran de-escalation, two-way). **Gold ~$4,058** (monthly -2.7%, hot-CPI/firm-yield headwind), **Silver ~$53** (+2.8% day), Copper ~$6.31 (China tightness).
+- **BRK.B earnings:** Q3 operating earnings **-5.8% y/y to $12.7B**, record cash **$377.4B**, buybacks up to $9.6B; stock hit new 52-wk high ~$583.6 on 11/10.
+- **Sector momentum:** Energy still YTD leader (+37.8%) but short-term momentum collapsed (-12% recent wk). Tech/semis rebounding today; defensives (staples/health care) mixed. Upgrades: **BDX → Overweight (Wells Fargo, $242 PT)**, AXON → Buy (Craig-Hallum, $390). Leadership narrow/mega-cap-tech-concentrated (SPY > equal-weight RSP).
+
+### Trade Ideas
+1. **No new entries — HOLD the correctly-tilted book (default).** Risk management is complete (28/29 stopped, only a $11.52 WULF fraction bare). The book is already positioned for higher-for-longer — value/dividend (SCHD/VTV/VTI/VOO), staples (XLP), health care (XLV), gold (GLDM/SIVR). **Hold BRK.B at no-add** (20.76%, over cap; now extended at 52-wk high on *weaker* Q3 operating earnings — a trim candidate back under 20% only if it extends toward ~21.5%+, not a forced action today).
+2. **Health care (XLV, hold 8 sh) — still the cleanest defensive ADD candidate, but WAIT.** Thesis: defensive character fits a ~90% Dec-hike / 10yr-near-5% tape; BDX upgrade supports the sleeve. Catalyst: rotation into defensives. **Conditional — do NOT add in a thin-liquidity holiday session; reassess Thursday on normal volume.** Entry ~$188, stop -5% (~$178.6, book standard), target +10% (~$207, ~2:1).
+3. **Semis/AI (SMH +9%, VGT, SPMO held) — today's bounce leader, but do NOT chase.** Thesis against adding: this is the most rate-sensitive, headline-whippy sleeve (NVDA/Huang probe still live, CoreWeave-driven relief) into a near-certain Dec hike and 10yr ~5% — rule-11 caution (prior semi failures). **Hold existing, no add.** Let the +9% SMH winner run under its 5% trail.
+- **Avoid:** chasing the AI/semi futures pop; fresh energy adds (momentum collapsed); fresh crypto (BTC fragile, -2.4%); adding metals into firm-yield/strong-USD headwind.
+
+### Risk Factors
+- **Hot Oct CPI + ~85-100% Dec-hike pricing + 10yr near 5%** = the dominant macro: a direct headwind to growth/duration + metals (GLDM/SIVR) and to the whole book's valuation.
+- **Veterans Day: bond market closed, equities open** — thinner liquidity, no cash-Treasury signal; moves can be exaggerated and a poor backdrop for fresh risk.
+- **AI-led futures bounce may be relief, not trend** — narrow mega-cap-tech leadership into a hawkish Fed; whippy (NVDA/Huang headline risk persists).
+- **BRK.B 20.76% concentration** + extended at a 52-wk high on softer Q3 operating earnings = internal single-name risk independent of tape.
+- **USD 4-wk high / firm yields** pressure the gold + international (EWG/VGK/FLJP) sleeves.
+- **19.1% cash / 29 of 30 positions** — little room to add without trimming; quality/risk-mgmt > new entries.
+
+### Decision
+**HOLD — no new entries.** A hot Oct CPI into ~90%+ Dec-hike pricing with the 10yr near 5%, on a thin-liquidity Veterans Day (bond market closed), is a low-edge spot to add fresh risk — and today's tape is an AI/semi-led relief bounce best not chased. The book is already tilted into exactly the right regime (value/dividend, staples, health care, gold) and fully stop-protected (only a $11.52 WULF fraction bare). Hold **BRK.B at no-add** (20.76%, over cap; trim only if it extends further). Watch **XLV** as the cleanest add on Thursday's normal liquidity, and let the **SMH** winner run under its trail. Patience > activity.
