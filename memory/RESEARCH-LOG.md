@@ -236,3 +236,44 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** A hot Oct CPI into ~90%+ Dec-hike pricing with the 10yr near 5%, on a thin-liquidity Veterans Day (bond market closed), is a low-edge spot to add fresh risk — and today's tape is an AI/semi-led relief bounce best not chased. The book is already tilted into exactly the right regime (value/dividend, staples, health care, gold) and fully stop-protected (only a $11.52 WULF fraction bare). Hold **BRK.B at no-add** (20.76%, over cap; trim only if it extends further). Watch **XLV** as the cleanest add on Thursday's normal liquidity, and let the **SMH** winner run under its trail. Patience > activity.
+
+## 2026-11-12 — Pre-market Research (Thursday — risk-off; NVDA board meets on Huang; gold <$4k, DXY 19-mo high, 10yr ~5%)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,735.54 | Cash: $10,625.24 (19.1%) | Buying power: $10,625.24 (1x, no margin)
+- Position mkt value: $45,110.30 (**80.9% deployed — within the 75-90% band**)
+- Overnight: -$76.53 (-0.14%) vs last_equity $55,812 — flat/soft.
+- **29 positions. 28 carry 5% GTC trailing stops (whole-share portion; verified via orders).** Only unstopped name = **WULF 0.86 sh ($11.22 fractional remnant, +17.3%)** — Alpaca rejects fractional trails; trivial. No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,801.15 = 21.2% of equity → over the 20% cap, and MORE extended than prior sessions** (20.6%→20.76%→21.2% drift; wrapper blocks adds). GLDM 110 sh $8,575.60 = 15.4% (2nd).
+- P&L leaders SPMO +7.4%, SMH +6.7%, FLJP +4.0%, XLI +4.7%, WQTM +4.8%; worst BTC -3.6%, GLDM -3.1%, SIVR -1.9%. None past -7% cut; none whole-position >= +15% tighten.
+
+### Market Context
+- **Risk-off premarket.** S&P fut ~7,603 (-0.3% to -0.5%); **Nasdaq-100 fut -0.8% to -1.0%; Dow fut ~flat (+0.04%)**. Yesterday's AI-led bounce reverses.
+- **NVDA -7% to -8% premarket ($161.68).** Board reportedly meets **TODAY (Nov 12)** on whether to remove CEO Jensen Huang (infidelity admission + probe into a woman reportedly linked to Chinese intelligence; NVDA says no breach). Ives: ~15% removal odds, but -25-30% NVDA value if ousted. Acute semi/AI headline risk (SMH/VGT/SPMO/SCHG exposure).
+- **USD surged: DXY >103 (102.85-103.08) — 19-month high (+0.6%)** on hot Oct CPI + hawkish Fed repricing. EUR ~1.109 (annual low), USD/JPY ~159.8 (near-160 intervention risk).
+- **Yields high: 10yr ~4.99% (briefly >5%), 2yr ~4.74%.** **Dec Fed HIKE ~84-91% (25bp) + ~9-14% (50bp) priced** — hike near-certain, size the debate. Bond market was closed Wed (Veterans Day); reopens today.
+- **VIX ~18.3 (+4%)** — still subdued vs last week's 24-28.
+- **Oil soft: WTI ~$85.7 (-1.0%), Brent ~$91.7 (-1.1%)** on Iran/Ukraine peace-talk hopes + OPEC+ output + US inventory builds. XLE headwind.
+- **Gold BELOW $4,000 (~$3,960-3,990), Silver ~$51.4, Copper ~$6.22 (4-mo low)** — strong-dollar/5%-yield headwind. Gold bias bearish-to-neutral; support $3,950-3,980. Direct drag on GLDM (15.4%)/SIVR.
+- **Bitcoin ~$73,600-73,800** — down ~8.3% on the week; **4+ straight sessions of spot-BTC-ETF outflows (~$1.1-1.6B in Nov)**. Support $73k, then $70k; reclaim $75k to improve. BTC/WULF fragile.
+- **Data today:** 8:30 ET initial jobless claims (cons 195k vs 189k prior); 10:00 ET Oct existing home sales. Heavy Fed-speaker slate: Hammack 9:00, Barr 10:00, Goolsbee 11:30, Bowman 12:50, Daly 2:10, Schmid 2:30. **Oct PPI is TOMORROW Fri 11/13, 8:30 ET.**
+- **International:** Europe mixed-to-firm (DAX +1.0%, CAC +0.7%, FTSE +0.4%; some feeds Stoxx -0.4%); Japan mixed (Nikkei ~flat, yen near 160); China modestly higher (CSI 300 +0.1%). Strong USD = headwind for EWG/VGK/FLJP.
+- **Sector momentum:** Energy YTD leader (+39-41%) but -3-6% past month. **Defensives lead past month: Staples +10.7%, Health Care +9.3%.** Tech the laggard (-10-11% past month) despite +15-22% YTD. Book tilted correctly (XLV, XLP, SCHD, VTV, VTI/VOO). Screen signals: AMD upgrade (+8.5%), uranium (CCJ/LEU), MDB momentum — all outside the defensive thesis.
+
+### Trade Ideas
+1. **No new entries — HOLD the correctly-tilted book (default).** Risk management complete (28/29 stopped; only a $11 WULF fraction bare). Book positioned for higher-for-longer (value/dividend SCHD/VTV/VTI/VOO, staples XLP, health care XLV) — exactly the 1-month leadership. **Hold BRK.B at no-add** (21.2%, over cap and now more extended at a 52-wk high on *weaker* Q3 operating earnings — a manual trim candidate back under 20% if it extends further toward ~22%, not a forced action today). Highest-value action is simply holding through the headline risk.
+2. **Health care (XLV, hold 8 sh, +3.5%) — still the cleanest defensive ADD candidate, but WAIT.** Thesis: strongest sustained + recent defensive momentum; fits a ~90% Dec-hike / 10yr-near-5% tape. **BUT:** only 19% cash and 29/30 positions — an add would require a trim first (BRK.B the natural source), and a risk-off NVDA-board-meeting day is a poor entry. **Conditional — reassess on a calmer tape; entry ~$191, stop -5% (~$181.6), target +10% (~$210, ~2:1).**
+3. **Gold sleeve (GLDM 15.4% + SIVR) — HOLD with stops, do NOT add.** Gold broke below $4,000 on DXY 19-mo high + 10yr ~5%; bias bearish-to-neutral toward $3,950. Let the 5% trails work; a decisive break could stop out GLDM — acceptable, not a forced manual cut (none at -7%).
+- **Avoid:** semis/AI re-entry (NVDA board meets today, whippy — rule-11 caution); fresh crypto (BTC sub-$74k, 4+ days ETF outflows); fresh metals (dollar/yield headwind); fresh international (strong USD); fresh energy (oil sliding).
+
+### Risk Factors
+- **NVDA board meeting TODAY on Huang** = acute, binary semi/AI headline risk for SMH/VGT/SPMO/SCHG and the broad tape; an ouster = est. -25-30% NVDA.
+- **DXY >103 (19-mo high) + 10yr ~5% + ~90% Dec-hike pricing** = the dominant macro headwind to the whole book's valuation, and a direct drag on gold (GLDM/SIVR) + international (EWG/VGK/FLJP).
+- **Bitcoin fragile sub-$74k with persistent ETF outflows** (BTC/WULF) — support $73k, then $70k.
+- **BRK.B 21.2% concentration**, extended at a 52-wk high on softer Q3 operating earnings = single-name risk independent of tape.
+- **Oil free-fall** (Iran/Ukraine de-escalation + oversupply) = direct XLE drag; a Hormuz/shipping re-escalation would snap it back (two-way).
+- **PPI tomorrow (Fri 11/13)** — another inflation print into a hawkish Fed; could extend yield/dollar strength.
+- **19.1% cash / 29 of 30 positions** — no room to add without trimming; quality/risk-mgmt > new entries.
+
+### Decision
+**HOLD — no new entries.** A risk-off tape with NVDA's board meeting on Huang as a live binary, the dollar at a 19-month high, the 10yr near 5%, and ~90% Dec-hike pricing is a low-edge spot to add fresh risk — and with only 19% cash across 29 of 30 positions there's no room anyway without a trim. The book is already tilted into exactly the right regime (value/dividend, staples, health care) and fully stop-protected (only an $11 WULF fraction bare). The only discretionary flag is **BRK.B at 21.2%** — hold at no-add, a manual-trim candidate if it extends further toward ~22%. Watch **XLV** as the cleanest add once the tape calms, and let the **SPMO/SMH** winners run under their 5% trails. Patience > activity.
