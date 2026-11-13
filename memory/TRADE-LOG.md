@@ -167,3 +167,8 @@ No positions yet. Bot launches tomorrow.
 - BUY SCHD 100 @ ~$35.95 | 7% GTC trail placed (~$33.4) | Thesis: new 52-wk high, value/dividend RS | Target ~$38.8 (+8%) | R:R ~1.1:1
 - Redeploy of ~$11.2k cash (39% -> ~19%); deployment ~80%. 3 buys this week (all filled). All stops confirmed "new".
 - Totals now: XLV 33, XLP 45, SCHD 197. PPI result not independently checked; tape stable at open.
+
+## 2026-11-13 — Midday Actions
+- SELL BTC 0.06 @ ~$30.38 (market) | -9.15% fractional remnant (avg $33.44), realized ~-$0.18 | Cut at -7% per rule. Crypto theme already stopped out this week.
+- No winners >= +15%; no stop tightening. All other positions carry GTC trails, none <= -7%. REZ -0.9% (watch).
+- Open Positions: BTC removed (23 positions).
