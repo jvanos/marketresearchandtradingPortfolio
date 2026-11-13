@@ -277,3 +277,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** A risk-off tape with NVDA's board meeting on Huang as a live binary, the dollar at a 19-month high, the 10yr near 5%, and ~90% Dec-hike pricing is a low-edge spot to add fresh risk — and with only 19% cash across 29 of 30 positions there's no room anyway without a trim. The book is already tilted into exactly the right regime (value/dividend, staples, health care) and fully stop-protected (only an $11 WULF fraction bare). The only discretionary flag is **BRK.B at 21.2%** — hold at no-add, a manual-trim candidate if it extends further toward ~22%. Watch **XLV** as the cleanest add once the tape calms, and let the **SPMO/SMH** winners run under their 5% trails. Patience > activity.
+
+## 2026-11-13 — Pre-market Research (Friday — PPI day; Huang RESIGNED, NVDA rebounds; 10yr ~5.1%, DXY 19-mo high; book 60% deployed)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,569.18 | Cash: $21,847.92 (39.3%) | Buying power: $21,847.92 (1x, no margin)
+- Position mkt value: $33,721.26 (**60.7% deployed — BELOW the 75-90% band; underdeployment is the main drag.** Note SGOV $2,011 is a T-bill cash-equivalent, so true risk deployment is ~57%.)
+- Overnight: +$52.32 (+0.09%) vs last_equity $55,516.86 — flat/firm.
+- **24 positions. 23 carry 5% GTC trailing stops (whole-share portion; verified via orders).** Only unstopped name = **BTC 0.06 sh ($1.84 remnant)** — trivial, Alpaca rejects fractional trails. No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,798 = 21.2% of equity → over the 20% cap** (wrapper blocks adds). SCHD $3,491 (6.3%) is 2nd; book otherwise well-diversified.
+- P&L leaders SPMO +8.0%, GOOGL +5.7%, VGT +4.2%, XLI +4.3%, XLE +4.1%; worst BTC fraction only. **None past -7% cut; none whole-position >= +15% tighten.**
+- Thu 11-12 flushed 6 trails (SMH, WQTM, SIVR, GLDM, BTC-whole, WULF) → metals+crypto+small-cap themes exited; that is what lifted cash from 19% to 39%.
+
+### Market Context
+- **S&P 500 futures ~7,620-7,630 (+0.1 to +0.2%); Nasdaq-100 fut ~flat-to-down** (MSFT -2% on 2nd-day Outlook outage; NVDA rebound offsetting). Dow fut +0.15%. Modestly higher into PPI.
+- **Oct PPI 8:30 ET = today's binary print.** Cons **headline +0.4% m/m** (vs +1.3% prior), **core +0.3% m/m / +5.0% y/y**. Follows hot Oct CPI (Tue). Hot print → more yield/dollar pressure.
+- **Rates HIGHER-FOR-LONGER, "bond-market cracks":** 10yr ~**4.99-5.13%**, 2yr ~**4.73-4.86%**, 30yr ~**5.45%**; weak Treasury auction, hawkish Fed repricing. **Dec HIKE ~fully priced (25bp), ~10-15% odds of 50bp.** Direct valuation headwind to the whole book.
+- **USD: DXY ~103.2 — 19-month high (+0.3%).** EUR ~1.105 (19-mo low), USD/JPY ~159.9 (near-160 intervention risk). Headwind for gold + international (VGK/EWG/FLJP).
+- **VIX ~18.3 (-2%)** — subdued despite the week's drama.
+- **Commodities:** WTI ~**$88** / Brent ~**$95.5** (bouncing off 2-mo lows, two-way on Iran). **Gold ~$3,907 (below $4,000), Silver ~$50** — strong-dollar/5%-yield headwind; metals theme already exited Thu (rule 11: GLDM+SIVR both failed).
+- **NVDA: Jensen Huang RESIGNED (Nov 12);** NVDA rebounding **+2% premarket**, earnings **next Tue 11/17**. Semis whippy: AMD/AVGO +5-6% Thu now pulling back -1 to -3%; CoreWeave/Nebius weak. Analysts: key-person risk + volatility, but not yet a structural AI-demand break (Vera Rubin on track). Rule-11 caution stands (prior semi failures).
+- **Catalysts:** PPI + heavy Fed-speaker slate (Goolsbee, Collins, Logan, Barr, Bowman, Daly, Jefferson); Cerebras earnings AC (~15% implied); Modine +23-29% (Samsung M&A talk). BRK.B **Q3 13F due Mon 11/16.**
+- **Earnings pre-open:** mostly small-cap/biotech/lithium-mining (CGON, LAC, SGML, USAS) + Mizuho — no book names.
+- **Sector momentum (1-mo):** **Staples +14.0%, Health Care +11.2%, Utilities +8.7%** lead; Tech the laggard. 3-mo: Health Care leads. **Book is tilted correctly** (XLV, XLP, SCHD, VTV, VTI/VOO). **SCHD touched a new 52-wk high this week** (confirms value/dividend sleeve). Screen signals (AMD upgrades $600PT, CCJ/LEU uranium, LITE, INO event) are outside the defensive thesis.
+
+### Trade Ideas (all CONDITIONAL on an in-line/benign PPI + post-print hold; execution is the market-open routine, not now)
+1. **Add XLV (health care, hold 8 sh) — cleanest redeploy.** Thesis: strongest *sustained* defensive momentum (+11.2% 1-mo, leads 3-mo), fits a ~100% Dec-hike / 10yr-~5% tape; funded from the 39% cash to lift deployment toward the band. Entry ~$188 post-PPI, stop -5% (~$178.6, book std), target +10% (~$207) = **~2:1**.
+2. **Add XLP (staples, hold 15 sh) or SCHD (hold 97 sh) — low-beta deployment.** Thesis: XLP is the #1 1-mo sector (+14.0%); SCHD printed a new 52-wk high (value/dividend relative strength). Either lifts deployment with minimal beta into the higher-for-longer regime. XLP entry ~$91, stop -5% (~$86.5), target +8% (~$98). SCHD entry ~$36, stop -5% (~$34.2), target +8%.
+3. **Hold the growth/semi sleeve (SPMO +8%, VGT, GOOGL +5.7%, AMZN, AAPL) — no adds.** Let SPMO run under its 5% trail. GOOGL supported (BRK.B added Alphabet; Q3 cloud +103%) but do not chase into semi/NVDA-earnings whippiness. **Avoid fresh semis/AI (rule 11), metals (dollar/yield), energy (oil two-way), crypto (BTC fragile).**
+- **BRK.B: no-add** (21.2%, over cap; wrapper blocks). Manual-trim candidate only if it extends toward ~22%; 13F Monday is a mild catalyst.
+
+### Risk Factors
+- **Oct PPI 8:30 ET** into a near-certain Dec hike — a second hot inflation print this week would push 10yr/30yr and DXY higher; pre-print adds are low-edge.
+- **10yr ~5.13% / 30yr ~5.45% / DXY 19-mo high** = the dominant macro headwind to all duration/growth + gold + international sleeves.
+- **NVDA post-Huang + earnings Tue 11/17** = live semi/AI headline risk (SPMO/VGT/SCHG exposure); AMD/AVGO already reversing.
+- **BRK.B 21.2% concentration**, extended at 52-wk high on softer Q3 operating earnings = single-name risk.
+- **Underdeployed at 60.7% (true risk ~57%)** = the biggest performance drag; needs a disciplined, momentum-backed redeploy once the PPI binary clears.
+- **Oil two-way** (Iran de-escalation vs shipping/Hormuz) = XLE swing risk.
+
+### Decision
+**HOLD — no new entries pre-market.** A second binary inflation print (Oct PPI, 8:30 ET) into a near-certain Dec hike, with the 10yr pushing 5.13%, the 30yr at 5.45%, and the dollar at a 19-month high, is a low-edge spot to add fresh risk ahead of the number — and the NVDA/Huang semi whippiness adds headline noise. **But** the book is now meaningfully **underdeployed (60.7%, ~57% true risk)** after Thursday's stop-out purge, so the week's priority is a disciplined redeploy. Concrete plan for the market-open routine: on an in-line/benign PPI that holds, **add to the defensive/value leaders already working — XLV (cleanest), then XLP/SCHD** — funded from cash to move deployment back toward 75-90%. **BRK.B no-add** (over cap). Let **SPMO/GOOGL** winners run under their trails. Patience > activity.
