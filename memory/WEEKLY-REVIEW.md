@@ -182,3 +182,75 @@ Cash $10,516.55 (~19%); deployed ~81%. 24 trailing stops all 5% (rule: 7%).
 ### Human Decision (2026-11-06, post-review)
 - PA358Z3OS confirmed as the correct account; baseline ~$55k (last_equity $55,149).
 - Inherited positions kept as-is; existing 5% trailing stops kept (human-approved override of the 7% rule for these positions). Rule text in TRADING-STRATEGY.md on main unchanged.
+
+## Week ending 2026-11-13
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $55,008 (Nov 6 close; Phase baseline) |
+| Ending portfolio | $55,571.16 (live acct; EOD log $55,641.46) |
+| Week return | +$563 (+1.02%) [log basis +$633 / +1.15%] |
+| S&P 500 week | +2.5% (7,376.86 -> 7,561.67) |
+| Bot vs S&P | -1.5% (lagged) |
+| Trades | 3 buys, 8 exits (W:4 / L:4 / open:23) |
+| Win rate | 50% (closed; 4/8) |
+| Best trade | WULF remnant +19.6% (SMH +5.5% best full) |
+| Worst trade | BTC remnant -9.15% (GLDM -4.1% largest $) |
+| Profit factor | ~0.09 (approx: ~$41 won / ~$457 lost; entry px partly inferred) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|---|---|---|---|---|
+| WULF 9 | $11.13 | $12.08 | +$8.55 (+8.5%) | Tue 5% trail |
+| WULF 0.86 | ~$11.13 | $13.31 | ~+$1.9 (+19.6%) | Thu remnant trail |
+| SMH 1 | ~$464 | $489.68 | ~+$26 (+5.5%) | Thu trail |
+| WQTM 10 | ~$25.30 | $25.76 | ~+$5 (+1.8%) | Thu trail |
+| SIVR 15 | ~$49.3 | $47.80 | ~-$23 (-3.1%) | Thu trail |
+| GLDM 110 | ~$80.4 | $77.10 | ~-$363 (-4.1%) | Thu trail; metals theme out |
+| BTC 40 | ~$33.4 | $31.66 | ~-$71 (-5.3%) | Thu trail; crypto theme out |
+| BTC 0.06 | $33.44 | $30.38 | -$0.18 (-9.15%) | Fri manual -7% cut |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|---|---|---|---|---|
+| BRK.B 20 | $574.84 | $592.26 | +$348 (+3.0%) | $567.07 (5%) |
+| SCHD 197 | $35.62 | $36.06 | +$88 (+1.3%) | ~$33.4 (7%/5% mix) |
+| XLV 33 | $187.10 | $188.24 | +$38 (+0.6%) | 7% trail |
+| XLP 45 | $91.28 | $92.26 | +$44 (+1.1%) | 7% trail |
+| VTV 13 | $223.66 | $228.00 | +$56 (+1.9%) | $219.30 |
+| AAPL 6 | $344.29 | $355.40 | +$67 (+3.2%) | $342.79 |
+| SPMO 5 | $124.76 | $131.53 | +$34 (+5.4%) | $128.70 |
+| XLE 10 | $61.93 | $64.94 | +$30 (+4.9%) | $61.72 |
+| Others (AMZN, GOOGL, VOO, VTI, VGK, VGT, SCHG, XLB, XLI, SGOV, REZ, VNQI, COWZ, EWG, FLJP) | various | — | small, net ~+$300 | trailing |
+Cash $10,804 (19.4%); ~80% deployed; 23 positions (fractional remnants unstopped).
+
+### What Worked
+- Held through CPI/NVDA headline risk; stayed flat-to-up while book was mostly inherited.
+- Trails flushed weak themes (metals, crypto, small-cap) fast on Thu risk-off.
+- Redeployed ~$11k Fri into XLV/XLP/SCHD (defensive leaders) with logged theses and 7% trails.
+- Defensive/value ETFs (BRK.B, SCHD, VTV, XLP) green; deployment back to ~80%.
+
+### What Didn't Work
+- Lagged S&P by ~1.5pts in a +2.5% week: 39% cash Thu, defensive tilt missed chip-led rally.
+- GLDM -$363 and BTC were the losses; 5% trails on volatile themes got whipsawed.
+- Profit factor ~0.09 — losses far larger in $ than winners (metals sizing).
+- Buys came only Fri; Mon-Wed no deployment while 19% cash idle.
+- Fractional remnants again unstopped (BTC cut at -9%, past the -7% rule).
+
+### Key Lessons
+- Idle cash in a rising tape costs more than trail whipsaws; define re-entry plan.
+- Close fractional remnants immediately after stop fills.
+- Defensive-only tilt lags when chips/growth lead; keep some growth beta (SCHG/VGT/SPMO sized up on dips).
+
+### Adjustments for Next Week
+- 5 buys left of 8; add only with logged thesis, favor momentum leaders (semis/growth) in small size.
+- Close sub-1-share remnants Monday.
+- Watch BRK.B >20% cap (no adds); REZ weakest (-0.9%).
+- Trim candidates if XLV/XLP fail to extend within a week.
+
+### Proposed Strategy Changes
+- None. (Human note: inherited 5% trails vs 7% rule remain human-approved override.)
+
+### Overall Grade: C
+(+1.0% positive, risk controls worked, but -1.5% vs S&P and ~0.09 PF.)
