@@ -172,3 +172,32 @@ No positions yet. Bot launches tomorrow.
 - SELL BTC 0.06 @ ~$30.38 (market) | -9.15% fractional remnant (avg $33.44), realized ~-$0.18 | Cut at -7% per rule. Crypto theme already stopped out this week.
 - No winners >= +15%; no stop tightening. All other positions carry GTC trails, none <= -7%. REZ -0.9% (watch).
 - Open Positions: BTC removed (23 positions).
+
+## 2026-11-13 — EOD Snapshot (Day N/A, Friday)
+**Portfolio:** $55,641.46 | **Cash:** $10,804.08 (19.4%) | **Day P&L:** +$122.96 (+0.22%) | **Phase P&L:** +$633.44 (+1.15%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $355.93 | 0.3% | 69.84 (3.38%) | $342.79 |
+| AMZN | 5 | $261.8 | $266.2 | -0.46% | 22 (1.68%) | $261.48 |
+| BRK.B | 20 | $574.84 | $592.94 | 0.53% | 362 (3.15%) | $567.07 |
+| COWZ | 1.03 | $69.69 | $71.19 | 0.42% | 1.55 (2.15%) | $67.95 |
+| EWG | 5.02 | $41.67 | $42.9 | 0.21% | 6.17 (2.95%) | $40.99 |
+| FLJP | 10.936 | $37.77 | $39.23 | 0.46% | 15.97 (3.87%) | $37.33 |
+| GOOGL | 2 | $286.01 | $295.23 | -1.16% | 18.45 (3.23%) | $289.72 |
+| REZ | 1 | $94.98 | $94.18 | 0% | -0.8 (-0.84%) | $91.31 |
+| SCHD | 197 | $35.62 | $36.09 | 0.45% | 93.54 (1.33%) | $34.46 |
+| SCHG | 3 | $33.24 | $34.05 | -0.79% | 2.43 (2.44%) | $32.94 |
+| SGOV | 20 | $100.49 | $100.56 | 0.03% | 1.4 (0.07%) | $95.53 |
+| SPMO | 5 | $124.76 | $132.31 | -1.58% | 37.75 (6.05%) | $128.7 |
+| VGK | 9 | $87.31 | $89.04 | 0.15% | 15.57 (1.98%) | $85.63 |
+| VGT | 4 | $108.94 | $110.94 | -1.91% | 7.98 (1.83%) | $109.28 |
+| VNQI | 1 | $43.45 | $43.54 | -0.12% | 0.09 (0.21%) | $42.03 |
+| VOO | 2 | $678.45 | $691.68 | -0.62% | 26.46 (1.95%) | $666.35 |
+| VTI | 3 | $363.13 | $370.15 | -0.66% | 21.05 (1.93%) | $356.89 |
+| VTV | 13 | $223.66 | $229.51 | 0.21% | 76.05 (2.62%) | $219.3 |
+| XLB | 5 | $52.13 | $52.23 | -0.21% | 0.5 (0.19%) | $50.72 |
+| XLE | 10 | $61.93 | $64.83 | 0.78% | 29 (4.68%) | $61.72 |
+| XLI | 1 | $163.02 | $168.78 | -0.39% | 5.76 (3.53%) | $163.02 |
+| XLP | 45 | $91.28 | $92.35 | 1.42% | 48.24 (1.17%) | $87.73 |
+| XLV | 33 | $187.1 | $188.85 | 0.54% | 57.89 (0.94%) | $181.13 |
+**Notes:** Up +$123 (+0.22%). Bought XLV/XLP/SCHD at open (3 buys this week, cash 39% -> 19%, ~80% deployed). BTC remnant cut at -9% midday. No stop fills. 23 positions, all carry GTC trails (fractional remnants unstopped). Week: 3 buys, 7 stop-fill/cut sells. Tomorrow: weekend; Monday review hold/redeploy.
