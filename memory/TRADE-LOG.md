@@ -160,3 +160,10 @@ No positions yet. Bot launches tomorrow.
 | XLP | 15 | $90.19 | $91.06 | -0.43% | +13.05 (+0.97%) | $87.54 |
 | XLV | 8 | $184.77 | $187.89 | -0.56% | +24.96 (+1.69%) | $181.13 |
 **Notes:** Down -$292 (-0.52%). Risk-off morning flushed 6 GTC trails (no new buys): SMH 1sh @ $489.68 (+5.5%), WQTM 10 @ $25.76 (+1.8%), SIVR 15 @ $47.80 (-3.1%), GLDM 110 @ $77.10 (-4.1%), BTC 40 @ $31.66 (-5.3%), WULF 0.86 remnant @ $13.31 (+19.6%). Metals/crypto/small-cap themes stopped out; GLDM+SIVR both failed (metals theme exit). 24 positions, cash 39.4% (below 75-90% deployed target). BTC 0.06 sh remnant unstopped. Trades this week: 0 buys, 6 stop-fill sells. Tomorrow: hold, consider redeploying cash into strength.
+
+## 2026-11-13 — Market Open Trades
+- BUY XLV 25 @ ~$187.88 | 7% GTC trail placed (~$174.7) | Thesis: health care #1 sustained 3-mo momentum; defensive vs Dec-hike/10yr 5% | Target ~$207 (+10%) | R:R ~1.5:1
+- BUY XLP 30 @ ~$91.82 | 7% GTC trail placed (~$85.4) | Thesis: staples #1 1-mo sector (+14%) | Target ~$98 (+7%) | R:R ~1:1
+- BUY SCHD 100 @ ~$35.95 | 7% GTC trail placed (~$33.4) | Thesis: new 52-wk high, value/dividend RS | Target ~$38.8 (+8%) | R:R ~1.1:1
+- Redeploy of ~$11.2k cash (39% -> ~19%); deployment ~80%. 3 buys this week (all filled). All stops confirmed "new".
+- Totals now: XLV 33, XLP 45, SCHD 197. PPI result not independently checked; tape stable at open.
