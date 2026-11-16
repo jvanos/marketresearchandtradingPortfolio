@@ -317,3 +317,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries pre-market.** A second binary inflation print (Oct PPI, 8:30 ET) into a near-certain Dec hike, with the 10yr pushing 5.13%, the 30yr at 5.45%, and the dollar at a 19-month high, is a low-edge spot to add fresh risk ahead of the number — and the NVDA/Huang semi whippiness adds headline noise. **But** the book is now meaningfully **underdeployed (60.7%, ~57% true risk)** after Thursday's stop-out purge, so the week's priority is a disciplined redeploy. Concrete plan for the market-open routine: on an in-line/benign PPI that holds, **add to the defensive/value leaders already working — XLV (cleanest), then XLP/SCHD** — funded from cash to move deployment back toward 75-90%. **BRK.B no-add** (over cap). Let **SPMO/GOOGL** winners run under their trails. Patience > activity.
+
+## 2026-11-16 — Pre-market Research (Monday — soft risk-off; BRK.B 13F due today; NVDA earnings Tue AC; 10yr 5.15%, DXY 103.4; book 80.6% deployed, well-tilted)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,801.75 | Cash: $10,804.06 (19.4%) | Buying power: $10,804.06 (1x, no margin)
+- Position mkt value: $44,997.69 (**80.6% deployed — within the 75-90% band.** Ex-SGOV T-bill cash-equiv, true risk deployment ~77.0% — healthy, redeploy from 11-13 worked.)
+- Overnight: +$133.34 (+0.24%) vs last_equity $55,668.41 — firm.
+- **23 positions, all carry 5% GTC trailing stops (whole-share portions, verified via 26 open orders).** XLV/XLP/SCHD each carry an extra 7% trail on the 11-13 add tranche (double-stopped, benign). Only bare slivers = fractional remnants COWZ .03 / EWG .02 / FLJP .936 (~$37) — Alpaca rejects fractional trails; trivial. No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,928 = 21.38% of equity → OVER the 20% cap and drifting up** (20.6%→21.2%→21.4%); wrapper blocks adds. 2nd SCHD $7,125 (12.8%), XLV $6,291 (11.3%), XLP $4,185 (7.5%). Otherwise well-diversified.
+- P&L leaders XLE +4.7%, SPMO +4.4%, FLJP +3.9%, AAPL +3.9%, BRK.B +3.8%, VTV +2.8%; worst REZ -0.8%. **None past -7% cut; none whole-position >= +15% tighten.**
+
+### Market Context
+- S&P 500 futures ~7,563 (-0.26%); **Nasdaq-100 fut ~27,883 (-0.54%)** — soft/risk-off open; 2nd straight down session carrying over.
+- **VIX ~19.3** — subdued despite the chop.
+- **USD: DXY ~103.4 — holding its 19-month high.** Headwind for gold + international (VGK/EWG/FLJP).
+- **Rates HIGHER-FOR-LONGER / "bond-market cracks":** 10yr ~**5.15%**, 2yr ~**4.88%**, 30yr ~**5.47%** (Nov-13 par yields; dominant valuation headwind to the whole book).
+- **Dec FOMC: ~90% priced 25bp HIKE, ~10-11% 50bp, ~0% cut.** (A lone Williams-dovish "cut possible" headline appeared in one feed — treat as outlier vs the ~90%-hike consensus.)
+- **Commodities:** WTI ~$88 / Brent ~$95 (off 2-mo lows, two-way on Iran). **Gold ~$3,871 (below $4,000), Silver ~$47.3, Copper ~$6.22 (4-mo low)** — strong-$/5%-yield headwind; metals theme already exited 11-12 (rule 11).
+- **Catalysts today:** 8:30 ET Empire State Mfg; 12:00 ET Fed Chair Warsh speech. **BRK.B Q3 13F due TODAY** (holdings as of 9/30; focus GOOGL — Q2 added ~48M Alphabet shares — and AAPL). This week: Tue retail sales; **Wed 2:00 ET FOMC minutes**; **NVDA earnings Tue 11/17 after close** = the week's semi/AI binary (SPMO/VGT/SCHG exposure).
+- **Earnings pre-open:** no book names.
+- **Premarket movers:** small-cap speculation only — AMCI +66%, RILY +27%, RZLV +28%, BDRX +25% (no identified fundamentals); NVDA/TSLA modestly lower. None book-relevant; avoid chasing froth.
+- **Sector momentum (1-mo):** **Staples +9.8%, Health Care +9.6%** tied as leaders; Energy -1.8% 1-mo (but +45% YTD); **Tech -9.2% 1-mo laggard** (+14.5% YTD). 3-mo: Health Care leads. **Book is tilted correctly** (XLV, XLP, SCHD, VTV, VTI/VOO).
+
+### Trade Ideas
+1. **HOLD the correctly-tilted, fully-stopped book (default).** 80.6% deployed (within band), all 23 positions stopped, defensive/value tilt matches 1-mo leadership. Highest-value action is simply holding through a soft tape + NVDA-earnings week. No forced action.
+2. **XLV (health care, hold 33 sh, +1.9%) — cleanest add IF deploying, but not urgent.** #1 sustained + recent defensive momentum; fits ~90%-Dec-hike / 10yr-5.15% regime. BUT only 19% cash and XLV already 11.3% of equity — an add is optional, best AFTER the NVDA binary clears and on a calmer tape. Conditional: entry ~$190, stop -5% (~$180.6), target +9% (~$207) ≈ ~1.8:1.
+3. **XLP (staples, hold 45 sh, +1.9%) — low-beta deployment alternative.** #1-tied 1-mo sector; already 7.5%. Small add only if deploying cash; entry ~$93, stop -5% (~$88.4), target +7% (~$99.5).
+- **BRK.B: NO-ADD** (21.4%, over cap, extended at record high +3.9% on the week; wrapper blocks adds). **Manual-trim candidate** back under 20% only if it extends parabolically toward ~22% on a 13F pop — not a forced action today.
+- **Avoid:** fresh semis/AI into NVDA earnings (rule 11, prior semi failures); metals (dollar/yield headwind, theme exited); crypto (exited); fresh energy (oil two-way, -1.8% 1-mo); small-cap froth (AMCI/RZLV/RILY).
+
+### Risk Factors
+- **NVDA earnings Tue 11/17 AC** = binary semi/AI event for SPMO/VGT/SCHG + broad tape; a miss/soft guide would pressure the growth sleeve and indices.
+- **10yr ~5.15% / 30yr ~5.47% / DXY 103.4 (19-mo high)** = the dominant macro headwind to all duration/growth + gold + international sleeves; ~90% Dec-hike priced.
+- **BRK.B 21.4% concentration**, extended at a record high into today's 13F = single-name risk independent of tape.
+- **Soft risk-off open + speculative small-cap froth** (AMCI +66% etc.) = thin-tape, two-way reversal risk.
+- **Wed FOMC minutes (2:00 ET)** = hawkish-tone headline risk into a near-certain Dec hike.
+- **Oil two-way** (Iran de-escalation vs Hormuz/shipping) = XLE swing risk (10 sh, +4.7%).
+
+### Decision
+**HOLD — no new entries pre-market.** The book is already in the right regime (value/dividend SCHD/VTV/VTI/VOO, staples XLP, health care XLV — exactly the 1-mo leadership), healthily 80.6% deployed (true-risk ~77%), and fully stop-protected. Adding fresh risk into a soft risk-off open, a 19-mo-high dollar, the 10yr at 5.15%, ~90%-Dec-hike pricing, and the NVDA-earnings binary Tue is low-edge — and with only 19% cash across 23 names there's little room without a trim. If a calmer post-NVDA tape invites redeployment, **XLV is the cleanest add, then XLP** (funded from cash, not a BRK.B-displacing move). **BRK.B stays no-add** (21.4%, over cap) and is the lone discretionary trim flag if it goes parabolic on the 13F. Let **SPMO/XLE/AAPL** winners run under their trails. Patience > activity.
