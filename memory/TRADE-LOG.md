@@ -201,3 +201,29 @@ No positions yet. Bot launches tomorrow.
 | XLP | 45 | $91.28 | $92.35 | 1.42% | 48.24 (1.17%) | $87.73 |
 | XLV | 33 | $187.1 | $188.85 | 0.54% | 57.89 (0.94%) | $181.13 |
 **Notes:** Up +$123 (+0.22%). Bought XLV/XLP/SCHD at open (3 buys this week, cash 39% -> 19%, ~80% deployed). BTC remnant cut at -9% midday. No stop fills. 23 positions, all carry GTC trails (fractional remnants unstopped). Week: 3 buys, 7 stop-fill/cut sells. Tomorrow: weekend; Monday review hold/redeploy.
+
+## 2026-11-16 — EOD Snapshot (Day N/A, Monday)
+**Portfolio:** $55,378.44 | **Cash:** $13,768.74 (24.9%) | **Day P&L:** -$263.02 (-0.47%) | **Phase P&L:** +$370.42 (+0.67%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $352.38 | -1.09% | 48.53 (2.35%) | $342.79 |
+| BRK.B | 20 | $574.84 | $592.35 | -0.1% | 350.2 (3.05%) | $567.07 |
+| COWZ | 1.03 | $69.69 | $70.51 | -0.96% | 0.84 (1.18%) | $67.95 |
+| EWG | 5.02 | $41.67 | $42.32 | -1.35% | 3.26 (1.56%) | $41.59 |
+| FLJP | 10.936 | $37.77 | $38.44 | -2.01% | 7.33 (1.77%) | $37.33 |
+| REZ | 1 | $94.98 | $94.27 | 0.1% | -0.71 (-0.75%) | $91.31 |
+| SCHD | 197 | $35.62 | $35.89 | -0.64% | 54.06 (0.77%) | $34.46 |
+| SCHG | 3 | $33.24 | $33.18 | -2.56% | -0.18 (-0.18%) | $32.94 |
+| SGOV | 20 | $100.49 | $100.58 | 0.02% | 1.8 (0.09%) | $95.55 |
+| VGK | 9 | $87.31 | $88.04 | -1.12% | 6.57 (0.84%) | $85.63 |
+| VNQI | 1 | $43.45 | $43.37 | -0.39% | -0.08 (-0.18%) | $42.03 |
+| VOO | 2 | $678.45 | $680.05 | -1.92% | 3.2 (0.24%) | $666.35 |
+| VTI | 3 | $363.13 | $364.3 | -1.84% | 3.51 (0.32%) | $356.89 |
+| VTV | 13 | $223.66 | $227.07 | -1.06% | 44.33 (1.53%) | $219.3 |
+| XLB | 5 | $52.13 | $51.47 | -1.46% | -3.3 (-1.27%) | $50.72 |
+| XLE | 10 | $61.93 | $63.66 | -2% | 17.33 (2.8%) | $61.72 |
+| XLI | 1 | $163.02 | $165.66 | -1.85% | 2.64 (1.62%) | $163.02 |
+| XLP | 45 | $91.28 | $92.6 | 0.27% | 59.49 (1.45%) | $88.81 |
+| XLV | 33 | $187.1 | $187.88 | -0.51% | 25.88 (0.42%) | $181.76 |
+
+**Notes:** No buys today (0 trades this week). Broad market down ~1-2% in ETFs; 4 trailing stops filled: SPMO 5 @ $128.66 (+3.1%), GOOGL 2 @ $289.16 (+1.1%), AMZN 5 @ $261.91 (+0.0%), VGT 4 @ $108.38 (-0.5%). Cash up to ~25% (below 75-90% deployment target); 19 positions remain, all with GTC trails. Day 0 baseline in log is $80k pre-launch; Phase P&L uses prior-snapshot basis ($55,008.02).
