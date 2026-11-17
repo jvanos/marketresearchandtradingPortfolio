@@ -357,3 +357,46 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries pre-market.** The book is already in the right regime (value/dividend SCHD/VTV/VTI/VOO, staples XLP, health care XLV — exactly the 1-mo leadership), healthily 80.6% deployed (true-risk ~77%), and fully stop-protected. Adding fresh risk into a soft risk-off open, a 19-mo-high dollar, the 10yr at 5.15%, ~90%-Dec-hike pricing, and the NVDA-earnings binary Tue is low-edge — and with only 19% cash across 23 names there's little room without a trim. If a calmer post-NVDA tape invites redeployment, **XLV is the cleanest add, then XLP** (funded from cash, not a BRK.B-displacing move). **BRK.B stays no-add** (21.4%, over cap) and is the lone discretionary trim flag if it goes parabolic on the 13F. Let **SPMO/XLE/AAPL** winners run under their trails. Patience > activity.
+
+## 2026-11-17 — Pre-market Research (Tuesday — post AI-selloff; NVDA earnings AC = week's binary; VIX ~24, 10yr 5.12%, DXY 103.5 19-mo high; book 75% deployed)
+
+### Account (live, PA358Z3OS)
+- Equity: $55,201.55 | Cash: $13,768.66 (24.9%) | Buying power: $13,768.66 (1x, no margin)
+- Position mkt value ~$41,433 (**75.1% deployed — at the LOW EDGE of the 75-90% band.** Ex-SGOV $2,012 T-bill cash-equiv, true risk deployment ~71.4% — just below band; redeploy is a priority once the NVDA binary clears.)
+- Overnight: -$184 (-0.33%) vs last_equity $55,385.60 — soft, in line with futures.
+- **19 positions, all carry 5% GTC trailing stops (whole-share portions, verified via 22 open orders).** XLV/XLP/SCHD each carry an extra 7% trail on the 11-13 add tranche (double-stopped, benign). Only bare slivers = fractional remnants COWZ .03 / EWG .02 / FLJP .936 (~$37) — Alpaca rejects fractional trails; trivial. No housekeeping gap.
+- Mon 11-16 flushed 4 trails (SPMO +3.1%, GOOGL +1.1%, AMZN +0.0%, VGT -0.5%) → semi/growth sleeve now minimal (only SCHG $100 left); that lifted cash from 19% to 24.9%.
+- **Concentration: BRK.B 20 sh = $11,780 = 21.3% of equity → OVER the 20% cap** (wrapper blocks adds). 2nd SCHD $7,035 (12.7%), XLV $6,153 (11.1%), XLP $4,144 (7.5%), VTV $2,952 (5.3%). Otherwise well-diversified.
+- P&L leaders XLE +2.9%, BRK.B +2.5%, AAPL +2.1%, XLI +1.8%, VTV +1.5%; worst XLB -1.3%, REZ -0.7%, XLV -0.3%, VNQI -0.2%. **None past -7% cut; none whole-position >= +15% tighten.**
+
+### Market Context
+- **Mon 11-16 was an AI-led ROUT: S&P -1.9% (7,416), Nasdaq -2.5%, Dow -739 (-1.41%); VIX spiked +23.8% to ~23.9** (intraday 24.52). Drivers: NVDA leadership crisis (Huang departed), Anthropic-IPO jitters, new US advanced-chip export restrictions to China. Fear regime is shifting (VIX 19→24 since Fri).
+- **Today futures modestly LOWER: S&P fut ~7,414-7,417 (-0.30 to -0.33%), Nasdaq-100 fut ~27,185-27,204 (-0.29 to -0.36%), Dow fut ~51,462 (-0.40%).** Two binaries queued.
+- **8:30 ET Oct RETAIL SALES** — cons headline +0.2% m/m, ex-autos +0.4%; consumer-resilience read into higher energy/rates. Also import prices, industrial production, ADP weekly.
+- **NVDA fiscal Q3 earnings AFTER CLOSE = the week's biggest event** (cons ~$2.47-2.48 EPS, ~$108.9-109.1B rev); first report post-Huang. Guidance / data-center demand / China the key risks. HD + DIS report pre-open (not held).
+- **Rates HIGHER-FOR-LONGER:** 10yr ~**5.118%** (flat), 2yr ~**4.806%** (-2bp), 30yr ~**5.472%**. **Dec FOMC (Dec 8-9) ~90-95% priced 25bp HIKE,** small 50bp tail, ~0% cut. **FOMC minutes Wed 2:00 ET.** Dominant valuation headwind to whole book.
+- **USD: DXY ~103.5 — 19-month high, 5th straight up day** (reached 103.63, highest since Apr '25). Headwind for gold + international (VGK/EWG/FLJP).
+- **VIX ~23.9** — elevated, no longer subdued; AI-uncertainty premium.
+- **Commodities:** WTI ~**$85**, Brent ~**$92** (oil ~-3% to 2-mo lows — Iran de-escalation + oversupply). **Gold ~$3,870 (firm +0.6% but below $4,000), Silver ~$46.8, Copper ~$6.00 (weak).** Metals theme already exited 11-12 (rule 11). Strong-$/5%-yield headwind persists.
+- **Sector momentum (1-mo through 11-13):** **Staples +9.8%, Health Care +9.6%** clear leaders (staples 100% positive breadth, HC 77%); Utilities +5.6%; Energy -1.8%; **Tech -12.1% — clear laggard, deteriorating.** XLP hit a record high Nov 16 and XLV near record as money rotated OUT of tech; value stocks printed record highs on heavy volume even as tech cratered. **Book is tilted EXACTLY right** (XLV, XLP, SCHD, VTV, VTI/VOO).
+- **Held-ticker news:** BRK.B at record $592.94, +3.9% on week (Q3: $9.6B buybacks, $12.7B operating earnings -5.8% y/y; kept full ~228M AAPL stake). AAPL firm (FY rev record $479B, +12% y/y; held +2.1% Mon despite the tech rout = defensive mega-cap behavior). Defensive single-name upgrades (STERIS Buy/Jefferies PT $305; Ecolab Buy/Wells PT $380) noted — ETF route cleaner, no need to add single-name risk.
+
+### Trade Ideas
+1. **HOLD the correctly-tilted, fully-stopped book (default).** The rotation is working FOR the book: value/staples/HC at record highs while tech craters. 75.1% deployed (at band floor), all 19 positions stopped, defensive/value tilt matches 1-mo leadership. Highest-value action = hold and let it work through the NVDA binary.
+2. **XLV (health care, hold 33 sh, -0.3%) — cleanest redeploy, but NOT before NVDA.** #2 1-mo (+9.6%), improving breadth, fits 90%-hike / 10yr-5.12% regime; funded from the 25% cash to lift deployment back toward band. Conditional on a calmer post-NVDA tape: entry ~$187, stop -5% (~$177.7), target +9% (~$204) ≈ ~1.8:1. Already 11.1% of equity — size small.
+3. **XLP (staples, hold 45 sh, +0.9%) — low-beta deployment alternative.** #1 1-mo sector (+9.8%), record high Nov 16, 100% positive breadth. Already 7.5%. Entry ~$92, stop -5% (~$87.4), target +7% (~$98.5). Small add only if deploying.
+- **BRK.B: NO-ADD** (21.3%, over cap; wrapper blocks). Acting as a defensive anchor; manual-trim candidate only if it extends parabolically toward ~22% — not a forced action.
+- **Avoid:** fresh semis/AI into NVDA earnings (rule 11, prior semi failures); metals (dollar/yield headwind, theme exited); crypto (exited); fresh energy (oil -3%, two-way); small-cap froth.
+
+### Risk Factors
+- **NVDA fiscal Q3 AFTER CLOSE** = binary semi/AI event; even with semis mostly exited, a miss/soft guide pressures broad indices (VTI/VOO) and the tape Wed.
+- **8:30 ET Oct retail sales** — consumer-resilience read into higher energy/rates; a soft print on a jittery tape amplifies risk-off.
+- **VIX ~24 (up from 19 Fri)** = fear regime shifting; thin-tape, two-way whippiness.
+- **10yr ~5.12% / 30yr ~5.47% / DXY 103.5 (19-mo high, 5th up day)** = dominant macro headwind to all duration/growth + gold + international; ~90-95% Dec-hike priced.
+- **BRK.B 21.3% concentration** at a record high = single-name risk independent of tape.
+- **Underdeployed ~71% true-risk** = the main performance drag; needs a disciplined, momentum-backed redeploy once the NVDA binary clears.
+- **Wed FOMC minutes (2:00 ET)** = hawkish-tone headline risk into a near-certain Dec hike.
+- **Oil -3% to 2-mo lows** (Iran de-escalation vs Hormuz/shipping two-way) = XLE swing risk (10 sh, +2.9%).
+
+### Decision
+**HOLD — no new entries pre-market.** Two binaries queue today — Oct retail sales at 8:30 ET and **NVDA's post-Huang fiscal Q3 after the close**, the week's single biggest event — into an already-jittery tape (VIX ~24 after Monday's -1.9% AI rout), a 19-month-high dollar, the 10yr at 5.12%, and ~90-95% Dec-hike pricing. Adding fresh risk ahead of that is low-edge. Crucially, the defensive-value rotation is working **for** the book: XLP hit a record high Monday and value printed record highs on heavy volume while tech cratered — the book (XLV/XLP/SCHD/VTV/VTI/VOO) is tilted exactly right and fully stop-protected, so the highest-value action is simply holding through the binary. The one open flag is **underdeployment (75.1%, ~71% true-risk)** after Monday's stop-out purge; the plan for a calmer post-NVDA tape is a disciplined redeploy into the working defensive leaders — **XLV cleanest, then XLP** (funded from cash, not a BRK.B-displacing move). **BRK.B stays no-add** (21.3%, over cap). Let **XLE/BRK.B/AAPL** run under their trails. Patience > activity.
