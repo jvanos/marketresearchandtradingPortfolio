@@ -227,3 +227,27 @@ No positions yet. Bot launches tomorrow.
 | XLV | 33 | $187.1 | $187.88 | -0.51% | 25.88 (0.42%) | $181.76 |
 
 **Notes:** No buys today (0 trades this week). Broad market down ~1-2% in ETFs; 4 trailing stops filled: SPMO 5 @ $128.66 (+3.1%), GOOGL 2 @ $289.16 (+1.1%), AMZN 5 @ $261.91 (+0.0%), VGT 4 @ $108.38 (-0.5%). Cash up to ~25% (below 75-90% deployment target); 19 positions remain, all with GTC trails. Day 0 baseline in log is $80k pre-launch; Phase P&L uses prior-snapshot basis ($55,008.02).
+
+## 2026-11-17 — EOD Snapshot (Day N/A, Tuesday)
+**Portfolio:** $54,922.55 | **Cash:** $14,075.35 (25.6%) | **Day P&L:** -$455.89 (-0.82%) | **Phase P&L:** -$85.47 (-0.16%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $351.40 | -0.39% | +42.66 (+2.07%) | $342.79 |
+| BRK.B | 20 | $574.84 | $586.47 | -1.08% | +232.60 (+2.02%) | $567.07 |
+| COWZ | 1.03 | $69.69 | $69.35 | -1.65% | -0.35 (-0.49%) | $67.95 |
+| EWG | 0.02 | $41.67 | $41.67 | -1.54% | 0.00 (0%) | none (fractional remnant) |
+| FLJP | 10.936 | $37.77 | $37.97 | -1.22% | +2.19 (+0.53%) | $37.33 |
+| REZ | 1 | $94.98 | $93.53 | -0.79% | -1.45 (-1.53%) | $91.31 |
+| SCHD | 197 | $35.62 | $35.33 | -1.48% | -56.02 (-0.80%) | $34.46 |
+| SGOV | 20 | $100.49 | $100.58 | 0% | +1.80 (+0.09%) | $95.56 |
+| VGK | 9 | $87.31 | $86.97 | -1.22% | -3.06 (-0.39%) | $85.63 |
+| VNQI | 1 | $43.45 | $43.22 | -0.35% | -0.23 (-0.53%) | $42.03 |
+| VOO | 2 | $678.45 | $673.04 | -1.06% | -10.82 (-0.80%) | $666.35 |
+| VTI | 3 | $363.13 | $360.19 | -1.13% | -8.82 (-0.81%) | $356.89 |
+| VTV | 13 | $223.66 | $223.90 | -1.40% | +3.12 (+0.11%) | $219.30 |
+| XLB | 5 | $52.13 | $50.84 | -1.22% | -6.45 (-2.48%) | $50.72 |
+| XLE | 10 | $61.93 | $63.36 | -0.52% | +14.30 (+2.31%) | $61.72 |
+| XLI | 1 | $163.02 | $165.00 | -0.40% | +1.98 (+1.22%) | $163.02 |
+| XLP | 45 | $91.28 | $91.46 | -1.23% | +8.19 (+0.20%) | $88.81 |
+| XLV | 33 | $187.10 | $185.60 | -1.21% | -49.36 (-0.80%) | $181.76 |
+**Notes:** Down -$456 (-0.82%); broad market sell-off (~-1% across ETFs). No buys (0 trades Mon-Tue this week). Stop fills: SCHG 3 and EWG 5 (remnant 0.02 left). 18 positions, 25.6% cash (below 75-90% deployment target); all whole-share positions carry GTC trails. XLB is within ~1% of its stop. Phase P&L on $55,008.02 basis.
