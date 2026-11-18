@@ -251,3 +251,11 @@ No positions yet. Bot launches tomorrow.
 | XLP | 45 | $91.28 | $91.46 | -1.23% | +8.19 (+0.20%) | $88.81 |
 | XLV | 33 | $187.10 | $185.60 | -1.21% | -49.36 (-0.80%) | $181.76 |
 **Notes:** Down -$456 (-0.82%); broad market sell-off (~-1% across ETFs). No buys (0 trades Mon-Tue this week). Stop fills: SCHG 3 and EWG 5 (remnant 0.02 left). 18 positions, 25.6% cash (below 75-90% deployment target); all whole-share positions carry GTC trails. XLB is within ~1% of its stop. Phase P&L on $55,008.02 basis.
+
+## 2026-11-18 — Market Open Trades
+- BUY XLV 12 @ ~$185.00 (mkt, filled) | stop 7% trail GTC (~$172.05) | target ~$201 (+9%) | R:R ~1.3:1
+  - Thesis: #2 1-mo sector, improving breadth; NVDA binary cleared (risk-on); fits hike/5% 10yr regime. Total XLV 45 sh.
+- BUY XLP 12 @ ~$91.17 (mkt, filled) | stop 7% trail GTC (~$84.8) | target ~$97 (+6.5%) | R:R ~1:1
+  - Thesis: #1 1-mo sector, record highs; low-beta redeploy. Total XLP 57 sh.
+- Purpose: lift deployment back to 75% floor (was ~74%) from cash. Funded from cash ($14.3k -> $11.0k). 2 buys this week.
+- FOMC minutes 2:00 ET = live risk; BRK.B no-add (>20% cap).
