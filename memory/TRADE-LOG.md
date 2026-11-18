@@ -259,3 +259,25 @@ No positions yet. Bot launches tomorrow.
   - Thesis: #1 1-mo sector, record highs; low-beta redeploy. Total XLP 57 sh.
 - Purpose: lift deployment back to 75% floor (was ~74%) from cash. Funded from cash ($14.3k -> $11.0k). 2 buys this week.
 - FOMC minutes 2:00 ET = live risk; BRK.B no-add (>20% cap).
+
+## 2026-11-18 — EOD Snapshot (Day N/A, Wednesday)
+**Portfolio:** $54,304.94 | **Cash:** $13,856.16 (25.5%) | **Day P&L:** -$617.61 (-1.12%) | **Phase P&L:** -$703.08 (-1.28%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $352.05 | +0.04% | +46.56 (+2.25%) | $342.79 |
+| BRK.B | 20 | $574.84 | $574.88 | -2.03% | +0.80 (+0.01%) | $567.07 |
+| COWZ | 1.03 | $69.69 | $68.17 | -1.63% | -1.57 (-2.18%) | $67.95 |
+| EWG | 0.02 | $41.67 | $41.03 | -1.54% | -0.01 (-1.5%) | none (remnant) |
+| FLJP | 10.936 | $37.77 | $37.68 | -0.76% | -0.98 (-0.24%) | $37.33 |
+| REZ | 1 | $94.98 | $93.80 | +0.29% | -1.18 (-1.24%) | $91.31 |
+| SCHD | 197 | $35.62 | $34.72 | -1.68% | -177.28 (-2.53%) | $34.46 / $33.68 |
+| SGOV | 20 | $100.49 | $100.59 | 0% | +2.00 (+0.1%) | $95.57 |
+| VNQI | 1 | $43.45 | $42.87 | -0.81% | -0.58 (-1.34%) | $42.03 |
+| VOO | 2 | $678.45 | $671.10 | -0.31% | -14.70 (-1.08%) | $666.35 |
+| VTI | 3 | $363.13 | $359.48 | -0.20% | -10.95 (-1.0%) | $356.89 |
+| VTV | 13 | $223.66 | $221.25 | -1.18% | -31.33 (-1.08%) | $219.30 |
+| XLI | 1 | $163.02 | $164.66 | -0.06% | +1.64 (+1.0%) | $163.02 |
+| XLP | 57 | $91.26 | $91.18 | -0.31% | -4.37 (-0.08%) | $86.94/$88.81/$85.30 |
+| XLV | 37 | $186.53 | $181.34 | -2.10% | -192.02 (-2.78%) | $177.94 / $172.32 |
+
+**Notes:** Down -$618 (-1.12%) in continued sell-off (FOMC minutes). Bought XLV 12 / XLP 12 at open (2 buys this week, 0 Mon-Tue). XLB no longer held (stop fill, not logged midday). 15 positions, cash 25.5% (below 75-90% target). XLV -2.8% and SCHD -2.5% are the largest drags; COWZ within 0.3% of its stop. Phase P&L on $55,008.02 basis.
