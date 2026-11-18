@@ -400,3 +400,42 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries pre-market.** Two binaries queue today — Oct retail sales at 8:30 ET and **NVDA's post-Huang fiscal Q3 after the close**, the week's single biggest event — into an already-jittery tape (VIX ~24 after Monday's -1.9% AI rout), a 19-month-high dollar, the 10yr at 5.12%, and ~90-95% Dec-hike pricing. Adding fresh risk ahead of that is low-edge. Crucially, the defensive-value rotation is working **for** the book: XLP hit a record high Monday and value printed record highs on heavy volume while tech cratered — the book (XLV/XLP/SCHD/VTV/VTI/VOO) is tilted exactly right and fully stop-protected, so the highest-value action is simply holding through the binary. The one open flag is **underdeployment (75.1%, ~71% true-risk)** after Monday's stop-out purge; the plan for a calmer post-NVDA tape is a disciplined redeploy into the working defensive leaders — **XLV cleanest, then XLP** (funded from cash, not a BRK.B-displacing move). **BRK.B stays no-add** (21.3%, over cap). Let **XLE/BRK.B/AAPL** run under their trails. Patience > activity.
+
+## 2026-11-18 — Pre-market Research (Wednesday — NVDA cleared BIG beat = risk-on relief; futures green; FOMC minutes 2pm = the one binary left)
+
+### Account (live, PA358Z3OS)
+- Equity: $54,781.03 | Cash: $14,076.95 (25.7%) | Buying power: $14,076.95 (1x, no margin)
+- Deployed: $40,704.08 = **74.3% — just BELOW the 75-90% band floor** (ex-SGOV $2,011 T-bill cash-equiv, true-risk deployment ~70.6%). Underdeployment remains the standing drag.
+- Overnight: -$136.20 (-0.25%) vs last_equity $54,917.23 — flat/soft into a green open.
+- **19 positions, all whole-share portions carry GTC trailing stops (22 open orders verified, all "new").** Fractional remnants COWZ .03 / EWG .02 / FLJP .936 (~$37) unstopped — Alpaca rejects fractional trails; trivial. No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,671.50 = 21.3% of equity → OVER the 20% cap** (wrapper blocks adds). 2nd XLV $6,088 (11.1%), SCHD $6,934 (12.7%), XLP $4,090 (7.5%), VTV $2,912 (5.3%). Otherwise diversified.
+- P&L: BRK.B +1.5%, AAPL +1.9%, XLI +1.6%, XLE +1.0% green; XLV -1.4%, XLB -2.7%, SCHD -1.2% soft. **None past -7% cut; none whole-position >= +15% tighten.** XLB closest to its stop (~$50.70 price vs $50.72 stop) — may fill at open.
+
+### Market Context
+- **NVDA fiscal Q3 (reported AC 11/17) = BIG BEAT:** rev **$115.8B** (vs ~$108.9B cons), EPS **$2.68** adj (vs $2.48), **strong guidance** in first report post-Huang. Stock +3-4% AH/premarket. **Removes the week's biggest binary cleanly** → AI-capex-sustainability fears eased.
+- **Futures GREEN:** ES ~+0.4-0.57% (~7,400), Nasdaq-100 ~+0.6-1.1% (~27,360), Dow ~+0.25%, Russell +0.1%. **Semi relief rally premarket:** MU +3.6%, AMD/KLAC >+3%, Infineon +2.5%. Market "stabilizing after the selloff."
+- **VIX:** easing off Monday's ~24 spike as the NVDA binary clears (relief regime). Elevated but declining.
+- **Rates still the headwind:** 10yr ~**5.12-5.15%**, 30yr ~5.47%, 2yr ~4.8%. **Dec FOMC (Dec 8-9) ~90% priced 25bp HIKE.** **FOMC MINUTES today 2:00 ET = the one live binary** (hawkish-tone headline risk into a near-certain hike).
+- **USD: DXY near 19-mo highs** — persistent headwind to gold + international (VGK/EWG/FLJP/VNQI).
+- **Commodities:** WTI ~+0.7%, Brent ~-0.2% (subdued; drone attacks Kuwait/Bahrain a two-way tail). **Gold -1.0% approaching $3,800, silver leading metals down.** Metals theme already exited 11-12 (rule 11) — stay out.
+- **Today's calendar:** Housing Starts/Permits 8:30, Pending Home Sales 10:00, **FOMC Minutes 2:00 ET**. Other catalysts: PANW earnings AC, Anthropic IPO pricing.
+- **Sector momentum:** still **defensive-led 1-mo (XLP #1, XLE, XLV)** but NVDA relief invites a tech/semi bounce — rotation two-way today. Book tilt (XLV/XLP/SCHD/VTV/VTI/VOO) remains aligned with the leaders.
+- **Held-ticker news:** AAPL ~$355 (+1.9%), firm defensive mega-cap. BRK.B near record, defensive anchor. No adverse single-name headlines on holds.
+
+### Trade Ideas
+1. **Redeploy toward band floor at the open (deployment 74.3% < 75% min).** The NVDA binary cleared risk-on; the standing underdeployment flag is now actionable. Deploy ~$2-4k of the 25.7% cash into existing defensive leaders to re-enter the 75-90% band — momentum-aligned, no new theme risk.
+2. **XLV (hold 33, -1.4%) — cleanest add.** #2 1-mo sector, improving breadth, fits 90%-hike/5%-10yr regime. Already 11.1% of equity (room under 20% cap). Entry ~$184.5, stop -7% GTC (~$171.6), target ~+9% (~$201) ≈ ~1.3:1. Size small (~10-15 sh ≈ $2-2.8k).
+3. **XLP (hold 45, -0.4%) — low-beta alternative.** #1 1-mo sector, record high this week. Already 7.5%. Entry ~$90.9, stop -7% (~$84.5), target +7% (~$97) ≈ ~1:1. Small add only.
+- **BRK.B: NO-ADD** (21.3%, over cap; wrapper blocks). Defensive anchor; manual-trim candidate only if parabolic toward ~22%.
+- **Avoid:** chasing semis/AI into the NVDA pop (rule 11, prior semi failures — relief is largely priced premarket); metals (dollar/yield headwind, theme exited); crypto (exited); fresh energy (oil two-way).
+
+### Risk Factors
+- **FOMC Minutes 2:00 ET** = today's live binary; a hawkish tone into a ~90%-priced Dec hike could reverse the NVDA relief and pressure the whole book.
+- **10yr ~5.12-5.15% / 30yr ~5.47% / DXY 19-mo high** = dominant macro headwind to all duration/growth + gold + international.
+- **BRK.B 21.3% concentration** = single-name risk independent of tape.
+- **NVDA relief may be a "sell-the-news" fade** after the premarket pop — don't chase green into the open.
+- **Underdeployment (74.3%)** = the main performance drag; the fix is a disciplined momentum-backed redeploy, not a forced one.
+- **XLB within ~0.1% of its stop** = likely stop-fill at open (metals/materials weakness).
+
+### Decision
+**Lean REDEPLOY at the open — modest, into existing defensive leaders — else HOLD.** The week's biggest binary (NVDA) cleared with a clean beat and strong guidance; futures are green and the tape is stabilizing, which flips the prior "hold through the binary" stance into "execute the standing redeploy." Deployment sits at **74.3% — below the 75% band floor** — so the highest-value action is lifting it back into band with ~$2-4k of the 25.7% cash into **XLV (cleanest), then XLP** — momentum-aligned, no new theme, funded from cash (not a BRK.B-displacing move). Keep it modest: **FOMC minutes at 2:00 ET is today's live hawkish-headline risk**, and the NVDA pop may fade, so avoid chasing semis/AI green into the open. **BRK.B no-add** (21.3%, over cap). Let **BRK.B/AAPL/XLE** run under their trails; expect a likely XLB stop-fill. Patience > activity — but the band floor says deploy, not sit.
