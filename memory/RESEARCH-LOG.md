@@ -439,3 +439,44 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **Lean REDEPLOY at the open — modest, into existing defensive leaders — else HOLD.** The week's biggest binary (NVDA) cleared with a clean beat and strong guidance; futures are green and the tape is stabilizing, which flips the prior "hold through the binary" stance into "execute the standing redeploy." Deployment sits at **74.3% — below the 75% band floor** — so the highest-value action is lifting it back into band with ~$2-4k of the 25.7% cash into **XLV (cleanest), then XLP** — momentum-aligned, no new theme, funded from cash (not a BRK.B-displacing move). Keep it modest: **FOMC minutes at 2:00 ET is today's live hawkish-headline risk**, and the NVDA pop may fade, so avoid chasing semis/AI green into the open. **BRK.B no-add** (21.3%, over cap). Let **BRK.B/AAPL/XLE** run under their trails; expect a likely XLB stop-fill. Patience > activity — but the band floor says deploy, not sit.
+
+## 2026-11-19 — Pre-market Research (Thursday — relief bounce after 5 down days; futures +1%; hawkish FOMC minutes, DXY 19-mo high; WMT/jobless claims = today's binaries; book 74.5% deployed)
+
+### Account (live, PA358Z3OS)
+- Equity: $54,248.29 | Cash: $13,856.08 (25.5%) | Buying power: $13,856.08 (1x, no margin)
+- Deployed: $40,392.21 = **74.5% — just BELOW the 75% band floor** (ex-SGOV $2,012 T-bill cash-equiv, true-risk ~70.8%). Underdeployment remains the standing drag.
+- Overnight: -$45 (-0.08%) vs last_equity $54,293 — flat into a green open. Phase P&L ~-$760 (-1.38%) on $55,008.02 basis.
+- **16 positions, all whole-share portions carry GTC trailing stops (verified: AAPL/BRK.B/COWZ/FLJP/REZ/SCHD×2/SGOV/VNQI/VOO/VTI/VTV/XLI/XLP×3/XLV×2).** Fractional remnants COWZ .03 / EWG .02 / FLJP .936 unstopped (Alpaca rejects fractional trails; trivial ~$38). No housekeeping gap.
+- **Concentration: BRK.B 20 sh = $11,455 = 21.1% of equity → OVER the 20% cap** (wrapper blocks adds). Next: XLV $6,667 (12.3%), SCHD $6,836 (12.6%), XLP $5,169 (9.5%), VTV $2,892 (5.3%). Otherwise diversified.
+- P&L on holds: AAPL +2.8%, XLI +2.3% green; **XLV -3.6% (UNH drag), SCHD -2.6%, XLP -0.6%** soft. None past -7% cut; none whole-position >= +15% tighten. COWZ/VNQI near stops (fractional/1-sh, trivial).
+
+### Market Context
+- **Futures GREEN ~+1.0-1.1%** (ES +76pts): relief rebound after the S&P's **5th straight decline**, plus **Anthropic IPO** debut optimism (priced $83, 925M sh, Nasdaq today) = dominant AI/risk-appetite catalyst.
+- **Hawkish FOMC minutes (released):** broad support for further hikes, inflation "more persistent than expected" — some reads flag a possible **50bp Dec hike**. Fed speakers today: Goolsbee, Barkin, Hammack/Paulson. Dec hike near-certain.
+- **Rates:** 10yr ~**5.09%**, 2yr ~4.81% (curve +28bp). Dominant duration/growth headwind persists.
+- **USD: DXY ~104, fresh 19-month high** (+0.2%) on hawkish minutes — pressuring gold, international (VGK/EWG/FLJP/VNQI), metals, ag.
+- **VIX ~24.5** (eased ~3.5% off Wed close) — elevated/fear regime but declining into the bounce.
+- **Commodities:** WTI ~$82-83 (-0.7% to -1.5%; supply-surplus vs Iran/Hormuz two-way), Brent ~$92. **Gold ~$3,726-3,740 (down, toward lows)**, silver -4%, **copper -5% to 7-mo low** (weak China). Metals theme already exited (rule 11) — stay out.
+- **Today's calendar:** 8:30 ET **initial jobless claims** (cons 198k) + **Philly Fed** (20.6); 10:30 nat-gas storage. **WMT earnings BMO** = consumer-resilience read + direct XLP read-through (WMT ~11% of XLP). Also BABA, GAP, BBWI, WSM; INTU AC.
+- **Sector momentum:** defensive-led — **Health Care #1 (+21.8% YTD, +9.6% 1-mo), Staples #2 (+20.2%, +9.8%)**, Energy/Materials strong YTD; Tech weakening short-term; Comm Services weakest. Book tilt (XLV/XLP/SCHD/VTV/VTI/VOO) aligned with leaders.
+- **Held-ticker news:** **XLV -2.2% Wed driven by UnitedHealth -10%** (CMS Medicare Advantage anti-fraud audit fears) — idiosyncratic insurer hit, not a HC-momentum break. AAPL firm (~$354, Berkshire 13F unchanged). WMT pre-earnings = XLP swing. No other adverse single-name news.
+- **Premarket movers:** PANW +10% (beat+raise), OKTA +12%, WWD +14%, SK Hynix +5% (semi strength). Upgrade/revision screen: energy (VLO, PSX, FANG) big EPS revisions; GMRS/PAYC/OMCL/CNK momentum — stock-specific, not clean theme plays into a hawkish tape.
+
+### Trade Ideas
+1. **Conditional small redeploy toward band floor (74.5% < 75%).** Deploy ~$1.5-3k of the 25.5% cash ONLY if the tape holds green after 8:30 claims + WMT — into a broad/low-beta leader, NOT a new theme. Preferred vehicle: **VTV (value, hold 13, +0.3%)** or broad **VTI/VOO** — avoids both today's single-name binaries. Entry at prevailing, stop -7% GTC, target +7-9%, R:R ~1:1.
+2. **XLV (hold 37, -3.6%) — do NOT add today.** HC is #1 momentum but Wed's drop is a **UNH-specific CMS-audit hit**; let it stabilize before any add. Hold existing; stops (~$172.3/$177.9) protect. Re-evaluate once UNH/insurer headline risk clears.
+3. **XLP (hold 57, -0.6%) — do NOT add pre-WMT.** #1-2 staples momentum but **WMT (~11% weight) reports BMO** = binary. Hold; small add only post-print if WMT confirms consumer strength. Stops ~$85.3-88.8 protect.
+- **BRK.B: NO-ADD** (21.1%, over cap; wrapper blocks). Defensive anchor; manual-trim candidate only if parabolic toward ~22%.
+- **Avoid:** chasing semis/AI relief pop (rule 11, prior semi failures); metals (DXY 19-mo high, copper/gold falling, theme exited); crypto (exited); fresh energy (oil two-way, down).
+
+### Risk Factors
+- **Relief bounce may fade:** +1% futures after 5 down days into a hawkish regime (possible 50bp Dec hike, DXY 19-mo high, 10yr 5.09%) — don't chase green into the open.
+- **Two 8:30 ET binaries:** jobless claims + Philly Fed on a jittery tape; a soft/hot print swings the open.
+- **WMT earnings BMO** = consumer read + direct XLP risk (WMT ~11% of XLP).
+- **Fed speakers (Goolsbee/Barkin)** = hawkish-headline risk all day.
+- **BRK.B 21.1% concentration** = single-name risk independent of tape.
+- **XLV/UNH:** CMS Medicare Advantage audit overhang could extend the insurer drag on our largest-beaten holding.
+- **Underdeployment (74.5%)** = standing performance drag; fix is disciplined, momentum-backed redeploy — not a forced one into two binaries.
+
+### Decision
+**HOLD pre-market; lean a SMALL redeploy at the open ONLY if the tape holds green through 8:30 claims + WMT.** Deployment sits at **74.5% — a hair below the 75% floor** — so the standing nudge is to lift it back into band, but today stacks two 8:30 binaries (claims/Philly Fed) and **WMT BMO** onto a **relief bounce (+1%) that follows 5 down days into a hawkish regime** (possible 50bp Dec hike, DXY 19-mo high, 10yr 5.09%). The disciplined move is to redeploy **modestly and into a broad/low-beta leader (VTV or VTI/VOO)** that dodges both single-name binaries — **not** to add XLV (UNH/CMS-audit hit, let it stabilize) or XLP (pre-WMT) at the open. The defensive-value book remains tilted with the leaders and fully stop-protected; **BRK.B stays no-add** (21.1%, over cap). Let AAPL/XLI run under trails. Patience > activity — the band floor says nudge, the binaries say keep it small.
