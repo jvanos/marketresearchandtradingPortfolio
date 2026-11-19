@@ -286,3 +286,21 @@ No positions yet. Bot launches tomorrow.
 | XLV | 37 | $186.53 | $181.34 | -2.10% | -192.02 (-2.78%) | $177.94 / $172.32 |
 
 **Notes:** Down -$618 (-1.12%) in continued sell-off (FOMC minutes). Bought XLV 12 / XLP 12 at open (2 buys this week, 0 Mon-Tue). XLB no longer held (stop fill, not logged midday). 15 positions, cash 25.5% (below 75-90% target). XLV -2.8% and SCHD -2.5% are the largest drags; COWZ within 0.3% of its stop. Phase P&L on $55,008.02 basis.
+
+## 2026-11-19 — EOD Snapshot (Day N/A, Thursday)
+**Portfolio:** $53,743.97 | **Cash:** $36,844.02 (68.6%) | **Day P&L:** -$560.97 (-1.03%) | **Phase P&L:** -$1,264.05 (-2.30%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $348.96 | -0.99% | +28.02 (+1.36%) | $342.79 |
+| COWZ | 0.03 | $69.69 | $66.99 | -1.73% | -0.08 (-3.9%) | none (remnant) |
+| EWG | 0.02 | $41.67 | $40.19 | -2.05% | -0.03 (-3.6%) | none (remnant) |
+| FLJP | 0.936 | $37.77 | $37.27 | -1.09% | -0.47 (-1.3%) | none (remnant) |
+| REZ | 1 | $94.98 | $92.49 | -1.40% | -2.49 (-2.6%) | $91.31 |
+| SCHD | 100 | $35.62 | $34.20 | -1.44% | -141.52 (-3.97%) | $33.68 |
+| SGOV | 20 | $100.49 | $100.61 | 0% | +2.31 (+0.1%) | $95.58 |
+| VNQI | 1 | $43.45 | $42.35 | -1.21% | -1.10 (-2.5%) | $42.03 |
+| VTV | 9 | $222.87 | $217.75 | -1.58% | -46.10 (-2.3%) | $206.19 |
+| XLP | 57 | $91.26 | $89.77 | -1.55% | -84.74 (-1.6%) | $86.94/$88.81/$85.30 |
+| XLV | 12 | $186.91 | $177.07 | -2.26% | -118.08 (-5.3%) | $172.32 |
+
+**Notes:** Down -$561 (-1.03%); sell-off continued. 1 buy (VTV 9 @ $221.73, 3 buys this week). Trailing stops filled: BRK.B 20 @ $566.81, XLV 25 @ $177.91, SCHD 97 @ $34.45, VTV 13 @ $219.30, VOO 2, VTI 3, FLJP 10, XLI 1, COWZ 1. 11 lines (3 fractional remnants), cash 68.6% — well below 75-90% target; no re-entries into falling tape. XLV -5.3% is the largest drag. Phase P&L on $55,008.02 basis.
