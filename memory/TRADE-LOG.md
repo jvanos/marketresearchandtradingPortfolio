@@ -252,6 +252,11 @@ No positions yet. Bot launches tomorrow.
 | XLV | 33 | $187.10 | $185.60 | -1.21% | -49.36 (-0.80%) | $181.76 |
 **Notes:** Down -$456 (-0.82%); broad market sell-off (~-1% across ETFs). No buys (0 trades Mon-Tue this week). Stop fills: SCHG 3 and EWG 5 (remnant 0.02 left). 18 positions, 25.6% cash (below 75-90% deployment target); all whole-share positions carry GTC trails. XLB is within ~1% of its stop. Phase P&L on $55,008.02 basis.
 
+## 2026-11-19 — Market Open Trades
+- BUY VTV 9 @ ~$221.73 (mkt, filled) | stop 7% trail GTC (~$206.2) | target ~$240 (+8%) | R:R ~1.1:1
+  - Thesis: pre-mkt plan = small redeploy into broad/low-beta leader if tape green after claims/WMT; futures +1%, VTV/VTI up at open. Value tilt aligned with HC/Staples leaders; dodges single-name binaries. Total VTV 22 sh.
+- Purpose: lift deployment toward 75% floor (74.5%). Cash $13.86k -> ~$11.86k. 3 buys this week.
+
 ## 2026-11-18 — Market Open Trades
 - BUY XLV 12 @ ~$185.00 (mkt, filled) | stop 7% trail GTC (~$172.05) | target ~$201 (+9%) | R:R ~1.3:1
   - Thesis: #2 1-mo sector, improving breadth; NVDA binary cleared (risk-on); fits hike/5% 10yr regime. Total XLV 45 sh.
