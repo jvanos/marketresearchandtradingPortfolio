@@ -254,3 +254,81 @@ Cash $10,804 (19.4%); ~80% deployed; 23 positions (fractional remnants unstopped
 
 ### Overall Grade: C
 (+1.0% positive, risk controls worked, but -1.5% vs S&P and ~0.09 PF.)
+
+## Week ending 2026-11-20
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $55,641.46 (Nov 13 EOD log; Mon AM live ~$55,802) |
+| Ending portfolio | $53,699.96 (live acct) |
+| Week return | -$1,941.50 (-3.49%); phase -$1,308 (-2.38% vs $55,008) |
+| S&P 500 week | -8.61% (7,561.67 -> 6,910.39; record weekly pt drop) |
+| Bot vs S&P | +5.1% (outperformed) |
+| Trades | 3 buys, 17 exits (W:4 / L:11 / flat:2); open: 9 lines (3 remnants) |
+| Win rate | ~24% (closed; ~4/17) -- mostly trail exits near entry |
+| Best trade | SPMO 5 +3.1% (~+$19.5) |
+| Worst trade | SCHD 97 -3.3% (~-$114); BRK.B 20 -1.4% (-$161 largest $) |
+| Profit factor | ~0.1 (approx: ~$27 won / ~$640 lost; entries from log, fills partly inferred) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|---|---|---|---|---|
+| SPMO 5 | $124.76 | $128.66 | ~+$19.5 (+3.1%) | Mon trail |
+| GOOGL 2 | ~$286 | $289.16 | ~+$6 (+1.1%) | Mon trail |
+| AMZN 5 | ~$261.9 | $261.91 | ~$0 | Mon trail |
+| VGT 4 | ~$108.9 | $108.38 | ~-$2 (-0.5%) | Mon trail |
+| SCHG 3 | $33.24 | ~$32.94 | ~-$1 | Tue trail |
+| EWG 5 | $41.67 | ~$41.59 | ~-$0.4 | Tue trail |
+| XLB 5 | $52.13 | ~$50.7 | ~-$7 (-2.7%) | Wed trail |
+| BRK.B 20 | $574.84 | $566.81 | -$161 (-1.4%) | Thu trail |
+| XLV 25 | ~$186.5 | $177.91 | ~-$215 (-4.6%) | Thu trail (incl. Wed add) |
+| SCHD 97 | $35.62 | $34.45 | ~-$114 (-3.3%) | Thu trail |
+| VTV 13 | $223.66 | $219.30 | ~-$57 (-1.9%) | Thu trail |
+| VOO 2 / VTI 3 | ~$678 / ~$363 | ~$666 / ~$357 | ~-$24 / ~-$19 | Thu trails |
+| FLJP 10 / XLI 1 / COWZ 1 | various | ~$37.3 / ~$163 / ~$68 | ~-$4 / $0 / ~-$2 | Thu trails |
+| AAPL 6 | $344.29 | ~$342.79 | ~-$9 | Fri; fill NOT logged (inferred from stop) |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|---|---|---|---|---|
+| SCHD 100 | $35.95 | $34.00 | -$195 (-5.4%) | $33.68 |
+| XLV 12 | $184.97 | $177.24 | -$93 (-4.2%) | $172.32 |
+| VTV 9 | $221.73 | $214.22 | -$68 (-3.4%) | $206.19 |
+| XLP 57 | $91.26 | $90.62 | -$36 (-0.7%) | $88.81/$86.94/$85.58 |
+| REZ 1 | $94.98 | $92.26 | -$2.7 | $91.31 |
+| SGOV 20 | $100.49 | $100.63 | +$2.8 | $95.61 |
+| VNQI 1 | $43.45 | ~$42.35 | ~-$1 | $42.03 |
+| Remnants COWZ .03 / EWG .02 / FLJP .94 | -- | -- | ~-$2 | none |
+Cash $38,942 (72.5%); 9 lines, ~27.5% deployed vs 75-90% target (equity $53.7k). Note: log EOD lists 72.5% cash; true deployment far below band.
+
+### What Worked
+- 5% trails on inherited book cut exposure before the -8.6% S&P week: bot -3.5% vs -8.6%.
+- Cash ~69-72% by Thu/Fri cushioned the crash; no -7% manual cut needed.
+- Rotation to defensives (XLP, XLV, VTV, SCHD) held up better than index.
+- No chasing: no re-entries into falling tape after Thu.
+
+### What Didn't Work
+- Wed/Thu buys (XLV, XLP, VTV) were bought into a falling tape; XLV -4.2%, VTV -3.4% already.
+- 17 stop exits = near-zero win rate; whipsaw, losses small but consistent.
+- Deployment collapsed to ~27% vs 75% floor; heavy cash drag if market rebounds.
+- Fills for AAPL/XLB/BRK.B/XLV stop-outs went unlogged midday; trade log incomplete.
+- Fractional remnants (COWZ/EWG/FLJP) still unstopped and unclosed (rule slip repeated).
+
+### Key Lessons
+- In a record-drop week, trailing stops + cash did their job; don't override with "redeploy to 75% floor" into a falling tape.
+- Defensive ETFs are not crash-proof (XLV -4%, SCHD -5%); sizing matters more than sector.
+- Log every stop fill same day.
+
+### Adjustments for Next Week
+- 5 buys left of 8; wait for stabilization (VIX falling, index holds a higher low) before redeploying.
+- Redeploy in tranches (<=1/3 of cash each), momentum leaders only, 7% trails.
+- Close COWZ/EWG/FLJP remnants Monday; reconcile fills in trade log.
+- Watch SCHD (-5.4%) and XLV (-4.2%): cut at -7%; no adds.
+- Check Monday whether S&P figure (-8.61%) is confirmed vs Alpaca/other sources.
+
+### Proposed Strategy Changes
+- Consider (needs 2+ weeks evidence): relax the 75-90% deployment target to a conditional floor when VIX >25 / index below key trend. Not applied; human decision.
+
+### Overall Grade: B-
+(-3.5% but +5.1% vs S&P in a historic -8.6% week; risk control worked, deployment and logging lapses, buys into the selloff.)
