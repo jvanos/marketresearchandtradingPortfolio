@@ -480,3 +480,39 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD pre-market; lean a SMALL redeploy at the open ONLY if the tape holds green through 8:30 claims + WMT.** Deployment sits at **74.5% — a hair below the 75% floor** — so the standing nudge is to lift it back into band, but today stacks two 8:30 binaries (claims/Philly Fed) and **WMT BMO** onto a **relief bounce (+1%) that follows 5 down days into a hawkish regime** (possible 50bp Dec hike, DXY 19-mo high, 10yr 5.09%). The disciplined move is to redeploy **modestly and into a broad/low-beta leader (VTV or VTI/VOO)** that dodges both single-name binaries — **not** to add XLV (UNH/CMS-audit hit, let it stabilize) or XLP (pre-WMT) at the open. The defensive-value book remains tilted with the leaders and fully stop-protected; **BRK.B stays no-add** (21.1%, over cap). Let AAPL/XLI run under trails. Patience > activity — the band floor says nudge, the binaries say keep it small.
+
+## 2026-11-20 — Pre-market Research (Friday — VIX ~30 highest since March, 6th down day, AI-trade unwind; book 68% cash after Thu stop cascade; monthly OpEx)
+
+### Account (live, PA358Z3OS)
+- Equity: $53,851.50 | Cash: $36,843.49 (68.4%) | Buying power: $36,843.49 (1x, no margin)
+- Deployed: $17,008.01 = **31.6% — FAR below the 75-90% band** (ex-SGOV $2,013 T-bill cash-equiv, true-risk ~27.8%). Thursday's trailing-stop cascade (BRK.B/XLV/SCHD/VTV/VOO/VTI/XLI/FLJP/COWZ all filled) dumped the book to cash; **underdeployment is now the dominant structural flag.**
+- Overnight: +$96.72 (+0.18%) vs last_equity $53,754.78 — flat into a red-tech open.
+- **11 lines (8 whole + 3 fractional remnants).** Whole-share holds all carry GTC trailing stops (verified: AAPL/REZ/SCHD/SGOV/VNQI/VTV/XLP×3/XLV). Remnants COWZ .03 / EWG .02 / FLJP .936 (~$38 total) unstopped — Alpaca rejects fractional trails; trivial.
+- Holdings: XLP 57 ($5,182, 9.6%), SCHD 100 ($3,434, 6.4%), XLV 12 ($2,143, 4.0%), AAPL 6 ($2,102, 3.9%), SGOV 20 ($2,013 T-bill), VTV 9 ($1,962, 3.6%), REZ/VNQI/remnants trivial. No position near the 20% cap; no concentration risk — the risk is too LITTLE deployed, not too much.
+- P&L on holds: AAPL +1.8%, SGOV +0.1% green; XLP -0.4%, VTV -1.7%, VNQI -2.8%, REZ -2.6%, SCHD -4.5%, XLV -3.5% soft. None past -7% cut; none whole-position >= +15% tighten. VNQI (1 sh) within ~0.5% of stop — trivial.
+
+### Market Context
+- **RISK-OFF, AI-unwind tape.** **VIX ~29-30** (touched 30.04 premarket = highest since Mar 30). S&P futures **-0.37% to -0.5% (~7,170)**, **Nasdaq-100 -1.1% to -1.2% (~26,250)** — tech-led; **Dow +0.2% to +0.4% (green)**: a rotation, not a broad crash. **6th straight S&P down day.** Anthropic -6% premarket (post-IPO), NVDA -2.7%, MU -3.7%, META -1.9%, AMZN -1.4%.
+- **Monthly OpEx (triple witching) today** = gamma/pin-driven intraday vol into an already-jittery tape.
+- **Rates eased slightly but still restrictive:** 10yr ~**5.04%** (from 5.07%), 2yr 4.76%, 30yr 5.40%. Dec hike still the base case; possible 50bp (Waller).
+- **USD: DXY ~103.8, flat.** **Gold CRASHING -3.3% (~$3,555-3,560), silver -5.8% (~$41.7)** — metals theme already exited (rule 11); stay out, no bottom-fishing. **Oil firm: WTI ~$83 (+0.6%), Brent ~$92** (Trump weighing Iran decision = two-way geopol tail).
+- **Today's calendar:** 8:25 ET **Waller** (50bp advocate) welcoming remarks; **10:00 ET U.Mich final sentiment (~51) + inflation expectations (1yr ~4.3%, 5yr ~3.4%)** = the day's key data; 12:15 **Cook**; 1:00 Baker Hughes rigs. **No S&P 500 earnings** (BJ's BMO only). Monthly OpEx.
+- **Sector momentum:** **defensive rotation intact** — Consumer Staples #1 recent (~+19% since Sept 30), Health Care strong (HC beat IT by >22pts over 100d), Energy best YTD (+41%). **Tech worst (IT -14.9% since Sept 30, worst in Nov/Q4 on AI-trade unwind.)** Book tilt (XLP/XLV/SCHD/VTV/AAPL) remains aligned with the leaders and against the thing being sold.
+- **Held-ticker news:** no adverse single-name headlines. XLP hit a record high earlier this week on defensive buying. XLV/UNH stable (no new CMS-audit escalation). SCHD +34.9% YTD, VTV +15.8% YTD — dividend/value relative strength holding.
+
+### Trade Ideas
+1. **HOLD — keep the 68% cash dry (primary).** This is a VIX-30, 6-down-day, AI-unwind falling-knife tape on OpEx Friday. Despite deployment at 31.6% (well under the 75% floor), **forcing cash into this downdraft = catching a knife.** The band-floor flag is real but the regime overrides it: redeploy on *confirmed stabilization*, not into the fear spike. Patience > activity.
+2. **Conditional XLP add (hold 57) — ONLY if tape stabilizes green after 10:00 Michigan data.** #1 defensive momentum, record high this week, lowest-beta vehicle. Entry ~$91, stop -7% GTC (~$84.6), target ~$97 (+6.5%), R:R ~1:1. Small (~10-15 sh ≈ $1-1.4k). Do NOT buy pre-10:00 into tech-led red.
+3. **Conditional VTV add (hold 9) — broad value alternative if redeploying.** Dodges single-name binaries, aligned with value/defensive leadership. Entry ~$218, stop -7% (~$202.7), target ~$235 (+8%), R:R ~1.1:1. Same gate: tape must turn.
+- **Avoid:** tech/semi/AI (unwind ongoing, worst momentum — rule 11 + prior semi failures); gold/metals (crashing, theme exited — no bottom-fishing); fresh energy (Iran geopol two-way); crypto (exited).
+
+### Risk Factors
+- **VIX ~30 + 6 straight down days + AI-trade unwind** = downside momentum; any redeploy risks buying into a continuing slide.
+- **Monthly OpEx (triple witching)** = gamma/pin-driven intraday whipsaw.
+- **10:00 Michigan inflation expectations** + **Waller (50bp) / Cook** = hawkish-headline risk with 10yr still >5%.
+- **Trump/Iran decision** = geopolitical oil/risk tail.
+- **Underdeployment (31.6%)** = the standing performance drag — but deploying into VIX-30 is the worse error; the fix waits for stabilization.
+- **Gold -3.3% / silver -5.8%** = sharp metals dislocation; confirms stay-out, not a dip-buy.
+
+### Decision
+**HOLD pre-market — no new buys into the open.** The book is 68% cash after Thursday's stop cascade and sits at **31.6% deployed, far under the 75% floor**, but today is the wrong day to fix it: **VIX ~30 (highest since March), a 6th straight down day, an active AI-trade unwind (Nasdaq -1.1%), and monthly OpEx** make redeployment a knife-catch. The existing defensive-value tilt (XLP/XLV/SCHD/VTV/AAPL) is exactly aligned with the sectors still leading (staples/HC/value) and against tech, and every whole-share line is stop-protected — so the downside is already managed and the dry cash is an asset, not just a drag, in this regime. **Conditional-only redeploy:** if the tape stabilizes green *after* the 10:00 Michigan inflation-expectations print, make ONE small momentum-aligned add (XLP preferred, then VTV) toward the band floor — otherwise sit. No metals/tech/energy/crypto. Patience > activity — the cash gives optionality into a falling tape; let the market find a floor first.
