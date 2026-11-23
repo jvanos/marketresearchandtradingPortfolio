@@ -9,6 +9,8 @@ No positions yet. Bot launches tomorrow.
 
 | Date | Ticker | Side | Shares | Entry | Stop | Target | R:R | Thesis |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-23 | XLV | buy | 11 | $178.36 | 7% trail GTC (~$165.9) | $195 | 1.3:1 | Staged redeploy, defensive leader, top ETF inflows |
+| 2026-11-23 | VTV | buy | 9 | $217.55 | 7% trail GTC (~$202.3) | $235 | 1.1:1 | Staged redeploy, value leader near records |
 
 ## 2026-11-09 — Market Open Trades
 - No new buys (research decision: HOLD into Tue CPI; NVDA/Huang headline risk).
@@ -320,3 +322,9 @@ No positions yet. Bot launches tomorrow.
 | XLV | 12 | $184.97 | $177.24 | -0.12% | -92.80 (-4.2%) | $172.32 |
 
 **Notes:** Down -$49 (-0.09%); sell-off flattened, XLP +0.85% led. No trades logged today; 3 buys this week. AAPL no longer held (stop $342.79 presumably hit; fill not logged). 9 lines (3 fractional remnants), cash 72.5% — slightly below 75-90% target. SCHD -5.4% and XLV -4.2% largest drags; FLJP remnant -5%. Phase P&L on $55,008.02 basis. Day P&L vs prior EOD $53,743.97.
+
+## 2026-11-23 — Market Open Trades
+- BUY XLV 11 @ ~$178.36 (total 23 sh). Stop: 7% trailing GTC. Thesis: staged redeploy into defensive leader (HC +13% since Oct-6, strongest defensive inflows); target $195; R:R ~1.3:1.
+- BUY VTV 9 @ ~$217.55 (total 18 sh). Stop: 7% trailing GTC. Thesis: broad value at records, dodges single-name binaries; target $235; R:R ~1.1:1.
+- Gate checked ~9:43 ET: relief rally intact (SPY ~716, fading off open). No XLP add (down on rotation to AI). Deployment ~27.6% -> ~35%; still far below band; stage more later in week post-Wed PCE.
+- Weekly buys: 5/8.
