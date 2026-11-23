@@ -328,3 +328,19 @@ No positions yet. Bot launches tomorrow.
 - BUY VTV 9 @ ~$217.55 (total 18 sh). Stop: 7% trailing GTC. Thesis: broad value at records, dodges single-name binaries; target $235; R:R ~1.1:1.
 - Gate checked ~9:43 ET: relief rally intact (SPY ~716, fading off open). No XLP add (down on rotation to AI). Deployment ~27.6% -> ~35%; still far below band; stage more later in week post-Wed PCE.
 - Weekly buys: 5/8.
+
+## 2026-11-23 — EOD Snapshot (Day N/A, Monday)
+**Portfolio:** $53,825.96 | **Cash:** $35,022.46 (65.1%) | **Day P&L:** +$131.34 (+0.24%) | **Phase P&L:** -$1,182.06 (-2.15%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| COWZ | 0.03 | $69.69 | $66.97 | +1.47% | -0.08 (-3.9%) | none (remnant) |
+| EWG | 0.02 | $41.67 | $40.09 | +2.35% | -0.03 (-3.8%) | none (remnant) |
+| FLJP | 0.936 | $37.77 | $37.21 | +3.68% | -0.52 (-1.5%) | none (remnant) |
+| REZ | 1 | $94.98 | $92.91 | +0.71% | -2.07 (-2.2%) | $91.31 |
+| SCHD | 100 | $35.95 | $34.40 | +1.36% | -155.00 (-4.3%) | $33.68 |
+| SGOV | 20 | $100.49 | $100.65 | 0% | +3.10 (+0.2%) | $95.62 |
+| VTV | 18 | $219.64 | $218.87 | +2.17% | -13.90 (-0.4%) | $206.19 / $204.20 |
+| XLP | 57 | $91.26 | $90.38 | -0.09% | -49.97 (-1.0%) | $88.81/$86.94/$85.58 |
+| XLV | 23 | $181.81 | $179.51 | +1.28% | -52.80 (-1.3%) | $172.32 / $167.47 |
+
+**Notes:** Up +$131 (+0.24%) on relief rally. 2 buys at open (XLV 11, VTV 9; 5/8 buys this week), each with 7% trail GTC. 9 lines (3 fractional remnants), cash 65.1% — below 75-90% target; staging more after Wed PCE. SCHD -4.3% largest drag. Phase P&L on $55,008.02 basis. Day P&L vs prior EOD $53,694.62.
