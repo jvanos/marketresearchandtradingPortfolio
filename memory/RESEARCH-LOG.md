@@ -516,3 +516,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD pre-market — no new buys into the open.** The book is 68% cash after Thursday's stop cascade and sits at **31.6% deployed, far under the 75% floor**, but today is the wrong day to fix it: **VIX ~30 (highest since March), a 6th straight down day, an active AI-trade unwind (Nasdaq -1.1%), and monthly OpEx** make redeployment a knife-catch. The existing defensive-value tilt (XLP/XLV/SCHD/VTV/AAPL) is exactly aligned with the sectors still leading (staples/HC/value) and against tech, and every whole-share line is stop-protected — so the downside is already managed and the dry cash is an asset, not just a drag, in this regime. **Conditional-only redeploy:** if the tape stabilizes green *after* the 10:00 Michigan inflation-expectations print, make ONE small momentum-aligned add (XLP preferred, then VTV) toward the band floor — otherwise sit. No metals/tech/energy/crypto. Patience > activity — the cash gives optionality into a falling tape; let the market find a floor first.
+
+## 2026-11-23 — Pre-market Research (Monday — sharp relief rally after 7-day S&P slide; VIX ~30 down 16%; book still ~72% cash / 28% deployed; holiday-shortened week, Wed PCE the key binary)
+
+### Account (live, PA358Z3OS)
+- Equity: $53,804.21 | Cash: $38,942.26 (72.4%) | Buying power: $38,942.26 (1x, no margin)
+- Deployed: $14,861.95 long MV = **27.6% — FAR below the 75-90% band** (ex-SGOV $2,013 T-bill cash-equiv, true-risk ~23.8%). **Underdeployment remains the dominant structural flag** after last week's stop cascade.
+- Overnight: +$115.45 (+0.21%) vs last_equity $53,688.76 — flat-to-green into a strong futures open.
+- Phase P&L: on $55,008.02 basis → **-$1,204 (-2.2%)**.
+- **9 lines (6 whole + 3 fractional remnants).** Whole-share holds all carry GTC trailing stops (verified in open orders: SCHD $33.68 / SGOV $95.61 / VTV $206.19 / XLP layered $85.58/$86.94/$88.81 / XLV $172.32 / REZ $91.31). Remnants COWZ .03 / EWG .02 / FLJP .936 (~$36 total) unstopped — Alpaca rejects fractional trails; trivial.
+- Holdings: XLP 57 ($5,179, 9.6%), SCHD 100 ($3,437, 6.4%), XLV 12 ($2,143, 4.0%), SGOV 20 ($2,013 T-bill), VTV 9 ($1,961, 3.6%), REZ 1 / remnants trivial. No position near 20% cap; **risk is too LITTLE deployed, not concentration.**
+- P&L on holds: SGOV +0.2% green; XLP -0.4%, VTV -1.7%, REZ -2.9%, XLV -3.5%, SCHD -4.4% soft. None past -7% cut; none whole-position ≥+15% tighten. All green premarket (SCHD +1.3%, VTV +1.7%, XLV +0.8%, XLP +0.4%).
+
+### Market Context
+- **RISK-ON RELIEF RALLY.** S&P futures **+2.9% (~7,135)**, Nasdaq-100 **+3.5% (~26,018)**, Dow **+2% (~49,226)** — **breaking a 7-day S&P losing streak** after the worst week for Dow/Nasdaq since Mar 2020 (S&P & Dow in correction, Nasdaq red YTD). **AI/semis lead the bounce** (NVDA +8.5%, CRWV +8%, ZS +13% on CrowdStrike's $43.9B buyout). Drivers: buy-the-dip calls (MS: AI spend solid), Trump pushing to reinstate NVDA's Huang. Asia still soft; Europe up.
+- **VIX ~30.1, down ~16%** from Fri close 35.89 — fear easing but **still elevated** (highest since Apr-2025 "Liberation Day"); not a resolved regime.
+- **Rates: 10yr ~4.96% (+4bp, risk-on), 2yr ~4.69%.** Yields up off Friday's flight-to-safety lows (<5%). **Dec hike ~96% priced for 25bp; 50bp largely off the table** — Fed debate has shifted toward the risk of over-tightening.
+- **USD: DXY ~103.6-103.75 (-0.1 to -0.2%)**, near 19-mo high; USD/JPY -1.2% (yen strongest major).
+- **Commodities:** WTI ~$83 (flat/-0.4%), Brent ~$92 (-0.5%; Gulf-shipping risk premium underpins). **Gold ~$3,620 (+2.4%), silver ~$42.5 (+3.3%), copper ~$5.52 (+0.6%)** — metals bouncing but **theme already exited (rule 11); stay out, no bottom-fishing.**
+- **Calendar (holiday-shortened week):** Mon 9:45 ET S&P Global flash PMIs (comp prior 55.9), 1pm 2yr auction, 4pm Williams. Tue 10:00 Consumer Confidence. **Wed 8:30 = the week's binary: Q3 GDP 2nd est, Oct PCE/core PCE, durable goods, jobless claims (pulled forward); 2pm Beige Book (last before Dec 8-9 FOMC).** Thu CLOSED (Thanksgiving). Fri early close. **No CPI/PPI/NFP this week.**
+- **Sector momentum:** defensives + value still lead over the past month / since the Oct-6 high — **HC +13.1%, Staples +11.8%, value at record highs**; defensives beat Nasdaq-100 by ~22.8pts in Oct-Nov. **XLV has the strongest defensive ETF inflows (~$385M); XLP flows softer (-$104M).** Energy best YTD (+41%) but -10% in Nov. **Tech the recent laggard (-13.7% since Oct 6) but cheap (~16.7x fwd vs staples ~25x)** = contrarian-rebound risk (today's bounce). Book tilt (XLP/XLV/SCHD/VTV) aligned with the leaders.
+- **Held-ticker news:** no adverse single-name headlines. Defensive rotation "continues but selective/barbell" — tech ETFs still taking inflows, so not a one-way risk-off. SCHD +34.9% YTD, VTV +15.8% YTD, XLV +23% YTD relative strength intact.
+
+### Trade Ideas
+1. **BEGIN a STAGED redeploy toward the band floor — into our defensive/value leaders, NOT the AI bounce (primary).** The last two sessions gated redeployment on *confirmed stabilization*; today delivers it (futures +3%, VIX -16%, 7-day streak breaking, yields off lows). Deploy ~$5-9k of the 72% cash **in stages across the week**, lifting deployment from 27.6% toward ~45-55% today (not forced to 75% into a one-day bounce). **Gate: rally holds green through the 9:45 PMIs.**
+   - **XLV add (hold 12, 4.0%) — preferred.** #1-2 momentum + strongest defensive inflows ($385M). Entry ~$178-180, stop -7% GTC (~$166), target ~$195 (+9%), R:R ~1.3:1. Add ~10-12 sh (~$1.8-2.2k).
+   - **VTV add (hold 9) — broad value, dodges single-name binaries.** Entry ~$218, stop -7% (~$203), target ~$235 (+8%), R:R ~1.1:1. Add ~8-10 sh (~$1.8-2.2k).
+2. **XLP add (hold 57, 9.6%) — smaller/optional.** #1-2 staples, record-high trade, but flows softer (-$104M) and already our largest line. Entry ~$91, stop -7% (~$84.6), target ~$97 (+6.5%). Keep modest (~10 sh) to avoid over-concentrating one name.
+3. **Do NOT chase AI/semis/tech on the bounce.** Worst recent momentum, rule-11 prior semi failures, and today's pop is a relief retrace of a 14% NVDA down-day — low-quality leadership. Cheap ≠ a thesis. If anything, the bounce is a chance to redeploy into the *leaders* while the tape is green, not to buy the laggard.
+- **Avoid:** metals (bouncing but theme exited — no re-entry); fresh energy (Nov -10%, Gulf two-way tail); crypto (exited); single-name AI binaries.
+
+### Risk Factors
+- **Relief bounce may fade:** +2-3.5% after a 7-day slide into a hawkish regime (near-certain Dec hike) — one-day bounces in correction phases often retrace; **stage, don't chase the gap.**
+- **VIX still ~30** = elevated; whippy intraday even on an up day.
+- **Wed 8:30 PCE + 2pm Beige Book** = live inflation binary into ~96% Dec-hike odds; a hot core PCE could reignite selling before the holiday.
+- **Holiday-thin liquidity** (Thu closed, Fri half-day) amplifies moves in both directions.
+- **AI-led, narrow leadership** on the bounce — if AI rolls back over, the broad tape follows.
+- **Underdeployment (27.6%)** = the standing performance drag; today is the first clean window to fix it — but the fix is a staged, momentum-aligned redeploy, not a forced one.
+
+### Decision
+**HOLD pre-market; PLAN a staged redeploy at the open, gated on the rally holding through the 9:45 PMIs.** Today is materially different from the last two sessions: the *confirmed-stabilization* gate they set (futures +2.9%/+3.5%, VIX down 16%, the 7-day S&P streak breaking, yields stable off Friday's lows) has finally tripped, and deployment at **27.6% — far under the 75% floor — is now the clear dominant drag** on a book that is otherwise exactly aligned with the sectors still leading (HC/staples/value) and fully stop-protected. The disciplined move is therefore to **begin redeploying into our own defensive/value leaders (XLV preferred on inflows, then VTV, smaller XLP)** — **not** to chase the AI/semis bounce that is leading the tape (worst momentum, rule-11 history, low-quality retrace). But it is a one-day relief pop into **Wednesday's PCE binary** on **thin holiday liquidity with VIX still ~30**, so size it **staged** (~$5-9k today toward ~45-55% deployed, not a forced sprint to 75%), all entries stop-protected at -7% GTC, and let it build across the week as the tape confirms. Patience > activity — but after two sessions of correctly sitting out the knife, today the cash drag outweighs the bounce-fade risk enough to start putting it to work, carefully.
