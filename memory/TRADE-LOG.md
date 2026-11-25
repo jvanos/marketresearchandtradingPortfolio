@@ -360,3 +360,19 @@ No positions yet. Bot launches tomorrow.
 | XLV | 23 | $181.81 | $184.61 | +2.89% | +64.50 (+1.5%) | $172.32 / $172.15 |
 
 **Notes:** Up +$265 (+0.49%); XLV +2.9% led. No trades today; 5/8 buys this week. 9 lines (3 fractional remnants), cash 64.8% — below 75-90% target; staging more after Wed PCE. SCHD -3.1% largest drag. Phase P&L on $55,008.02 basis. Day P&L vs prior EOD $53,825.96.
+
+## 2026-11-25 — EOD Snapshot (Day N/A, Wednesday)
+**Portfolio:** $54,166.74 | **Cash:** $35,022.45 (64.7%) | **Day P&L:** +$76.21 (+0.14%) | **Phase P&L:** -$841.28 (-1.53%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| COWZ | 0.03 | $69.69 | $68.38 | +0.90% | -0.04 (-1.9%) | none (remnant) |
+| EWG | 0.02 | $41.67 | $40.08 | +0.03% | -0.03 (-3.8%) | none (remnant) |
+| FLJP | 0.936 | $37.77 | $37.36 | +0.65% | -0.38 (-1.1%) | none (remnant) |
+| REZ | 1 | $94.98 | $95.42 | +1.13% | +0.44 (+0.5%) | $91.31 |
+| SCHD | 100 | $35.95 | $35.33 | +1.26% | -62.01 (-1.7%) | $33.68 |
+| SGOV | 20 | $100.49 | $100.68 | +0.02% | +3.80 (+0.2%) | $95.65 |
+| VTV | 18 | $219.64 | $221.04 | +0.43% | +25.16 (+0.6%) | $206.49 / $206.49 |
+| XLP | 57 | $91.26 | $92.30 | +0.46% | +59.47 (+1.1%) | $88.81/$86.94/$86.37 |
+| XLV | 23 | $181.81 | $183.68 | -0.56% | +43.11 (+1.0%) | $172.32 / $172.29 |
+
+**Notes:** Up +$76 (+0.14%); SCHD +1.3% led, XLV -0.6% lagged. No trades logged today; 5/8 buys this week. 9 lines (3 fractional remnants), cash 64.7% — below 75-90% target; no adds ahead of Thanksgiving close (market closed Thu, half day Fri). All positions green or near flat except remnants. Phase P&L on $55,008.02 basis. Day P&L vs prior EOD $54,090.53.
