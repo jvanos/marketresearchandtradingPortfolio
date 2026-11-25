@@ -596,3 +596,41 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD pre-market — no new buys into the open; pause the staged redeploy for one day.** Monday's redeploy (XLV +11, VTV +9) correctly used the stabilization window, but today it has partly unwound: S&P futures **-0.68%** as the Nvidia/Huang rally fades and chips cool (NVDA ~-5%, MU -7%), **VIX back to ~28**, and the week's decisive **Oct PCE print lands tomorrow (8:30)** directly ahead of a closed Thursday and half-day Friday. Deployment at **35.1% remains far under the 75% floor** and is the standing drag, but the disciplined read is that adding into a red, chip-led tape one day before the PCE binary — on thinning holiday liquidity — is poor risk/reward; the dry cash is optionality, not just drag, into that event. The book is exactly aligned with the sectors still leading (staples/HC/value), fully stop-protected, and carries no concentration risk, so downside is managed. **Conditional-only:** if the tape turns and holds green after the 10:00 Consumer Confidence print, make ONE small momentum-aligned add (XLV preferred, then VTV) — otherwise sit and **resume the staged redeploy after Wednesday's PCE** if the print is benign. Patience > activity.
+
+## 2026-11-25 — Pre-market Research (Wednesday — PCE BINARY DAY; S&P futures -1.46% as AI/semi unwind resumes, VIX back >30; book ~35% deployed; Thu CLOSED, Fri half-day)
+
+### Account (live, PA358Z3OS)
+- Equity: $54,105.71 | Cash: $35,022.45 (64.7%) | Buying power: $35,022.45 (1x, no margin)
+- Deployed: $19,083.26 long MV = **35.3%** (ex-SGOV $2,013 T-bill → true-risk ~31.5%). **Still FAR below the 75-90% band — underdeployment remains the dominant structural flag.**
+- Overnight: +$1.61 (+0.00%) vs last_equity $54,104.10 — flat into a red-futures, pre-PCE tape.
+- Phase P&L: on $55,008.02 basis → **-$902 (-1.64%)** (improved ~$170 vs Mon's low on two green sessions).
+- **9 lines (6 whole + 3 fractional remnants). All whole-share holds fully stop-protected** (verified open orders): VTV 18 ($205.16/$206.19), XLV 23 ($172.15/$172.32), XLP 57 ($85.90/$86.94/$88.81), SCHD 100 ($33.68), SGOV 20 ($95.63), REZ 1 ($91.31). Remnants COWZ .03 / EWG .02 / FLJP .936 (~$37) unstopped — Alpaca rejects fractional trails; trivial.
+- Holdings: XLP 57 ($5,255, 9.7%), XLV 23 ($4,241, 7.8%), VTV 18 ($3,962, 7.3%), SCHD 100 ($3,478, 6.4%), SGOV 20 ($2,013 T-bill), REZ 1 / remnants trivial. No position near 20% cap; **risk is too LITTLE deployed, not concentration.**
+- P&L on holds: XLV +1.4%, XLP +1.0%, REZ +1.0%, SGOV +0.2%, VTV +0.2% green; SCHD -3.3% softest. None past -7% cut; none whole-position ≥+15% tighten. Weekly buys: **2/8 used** (Mon XLV +11, VTV +9).
+
+### Market Context
+- **RISK-OFF INTO PCE.** S&P futures **-1.46% (~7,112)**, Nasdaq leading lower — **AI/semiconductor unwind resuming**: AMBA **-36%** (guided Q4 rev just $70-75M, memory order pushouts), DELL -7.2%, AMD -6.4%, MU -6.0%, NVDA -5.0%. Drivers: continued AI-trade deleveraging, tariff headlines, caution into the 8:30 inflation print. SNY +1.9% (Insmed $41B deal), BILI +2.6% (earnings beat).
+- **VIX ~30.5, up ~15.5%** from Tue's 26.36 close — **fear back above 30**; regime unresolved and re-tightening.
+- **Rates: 10yr ~4.92%, 2yr ~4.67%** (10s2s ~+0.25, normal). Restrictive, off the >5% peak. Dec 25bp hike still base case; PCE the swing input.
+- **USD: DXY ~104.0**, consolidating below Mon's 20-mo high (~104.53); EUR/USD +0.6% (~1.097), GBP +0.6%, yen weak near 160.
+- **Commodities:** WTI ~$80.5-81 (**3-month low**, 2027 supply-glut fears; OPEC meets Nov 29), Brent ~$87-88 (-1.5% to -4%). Gold ~$3,520-3,556 (-0.5% to -1.2%), silver ~$40.2-40.7 — **metals weak; theme exited (rule 11), stay out.** BTC ~$58,840 (-1.5%).
+- **TODAY = THE WEEK'S BINARY, 8:30 ET:** Oct **PCE / core PCE**, **Q3 GDP 2nd est**, durable goods, income/spending, jobless claims; **2pm Beige Book** (last before Dec 8-9 FOMC). Consensus: core PCE +0.3% m/m / ~3.2% y/y, GDP +3.5%. *[Perplexity returned figures (core +0.3% m/m, 3.1% y/y, GDP +3.5%, durables +1.9%, claims 203k) but the print was NOT out at this ~7:30 ET run — treat as UNVERIFIED consensus-level, not actual.]* **Thu CLOSED (Thanksgiving), Fri half-day** → liquidity thins hard from today afternoon.
+- **Sector momentum:** defensive/value leadership intact — **HC +14.5% YTD, Staples +15-16% YTD, value the clear rotation beneficiary**; Tech still a YTD leader (+24.7%) but **-13.7% since Oct-6, momentum deteriorated**. **XLV strongest defensive inflows (~$385M Nov); XLP outflows (-$104M).** Book tilt (XLP/XLV/SCHD/VTV) remains aligned with the leaders.
+- **Held-ticker news:** no adverse single-name/ETF headlines. Defensive/value resilience confirmed (XLV +14.5% YTD, SCHD +23.7%, VTV +15.8%, XLP +16% YTD).
+
+### Trade Ideas
+1. **HOLD — keep the staged redeploy PAUSED into the open (primary).** The post-PCE resume condition set the last two sessions has NOT tripped: futures **-1.46%**, VIX back **>30**, the AI/semi unwind is resuming (AMBA -36%, chips -5 to -7%), and the decisive PCE print lands at 8:30 directly ahead of a **closed Thursday**. Adding into a red pre-PCE tape on thinning holiday liquidity is poor risk/reward. Dry cash = optionality into the binary. **Resume the staged redeploy at the open/midday ONLY if PCE is benign AND the tape stabilizes green.**
+2. **Conditional XLV add (hold 23, 7.8%) — ONLY post-PCE if benign + tape holds green.** Strongest-momentum defensive leader, top defensive inflows ($385M), HC M&A tailwind (Sanofi/Insmed $41B). Entry ~$184, stop -7% GTC (~$171), target ~$198 (+7.6%), R:R ~1.1:1. Small (~8-10 sh ≈ $1.5-1.8k). Do NOT buy into red.
+3. **Conditional VTV add (hold 18) — broad value, dodges single-name binaries.** Same gate (post-PCE, green). Entry ~$220, stop -7% (~$205), target ~$236 (+7.3%), R:R ~1:1. ~8-9 sh.
+- **Avoid:** chasing the AI/semi pullback (worst momentum, rule-11 prior semi failures, AMBA/DELL/MU/NVDA all red); metals (exited, no bottom-fish); fresh energy (3-mo low, OPEC Nov 29 two-way tail); crypto (exited); speculative momentum junk (AKAN/BENF/SOXL/RIOT/leveraged ETFs).
+
+### Risk Factors
+- **PCE/core PCE 8:30** = live inflation binary into a near-certain Dec hike; a hot core print could reignite selling before a closed Thursday.
+- **AI/semi unwind resuming** (AMBA guidance cut, chips -5 to -7%) — narrow leadership; if AI rolls over, the broad tape follows.
+- **VIX ~30.5 + futures -1.46%** = elevated fear, whippy intraday.
+- **Holiday-thin liquidity** (Thu closed, Fri half) amplifies moves from this afternoon in both directions.
+- **DXY ~104 + 10yr ~4.9%** = restrictive macro backdrop; oil at a 3-mo low signals soft demand expectations.
+- **Underdeployment (35.3%)** = the standing performance drag — but deploying into a red pre-PCE tape is the worse error; the fix waits for post-PCE clarity.
+
+### Decision
+**HOLD pre-market — no new buys into the open; keep the staged redeploy paused one more session.** Today is the week's decisive event: the **8:30 PCE/GDP binary** lands into a **red tape (futures -1.46%), VIX back above 30, and a resuming AI/semi unwind** (AMBA -36%, NVDA/MU/AMD/DELL all -5 to -7%), directly ahead of a **closed Thursday and half-day Friday**. Deployment at **35.3% remains far under the 75% floor** and is the standing drag, but the disciplined read is unchanged from Tue: adding into a red, chip-led, pre-PCE tape on thinning holiday liquidity is poor risk/reward, and the dry cash is optionality into the event, not just drag. The book is exactly aligned with the sectors still leading (staples/HC/value), fully stop-protected, and carries no concentration risk, so downside is managed. **Conditional-only:** at the open/midday, IF the 8:30 PCE print is benign AND the tape stabilizes and holds green, make ONE small momentum-aligned add (XLV preferred on inflows, then VTV) toward the band floor — otherwise sit and reassess Friday. Patience > activity.
