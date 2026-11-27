@@ -332,3 +332,67 @@ Cash $38,942 (72.5%); 9 lines, ~27.5% deployed vs 75-90% target (equity $53.7k).
 
 ### Overall Grade: B-
 (-3.5% but +5.1% vs S&P in a historic -8.6% week; risk control worked, deployment and logging lapses, buys into the selloff.)
+
+## Week ending 2026-11-27
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $53,694.62 (Nov 20 EOD log) |
+| Ending portfolio | $54,328.22 (EOD log; live acct $54,285.97) |
+| Week return | +$633.60 (+1.18%); phase -$679.80 (-1.24% vs $55,008.02) |
+| S&P 500 week | +5.60% (6,910.39 -> 7,297.49; best week since Apr 2025) |
+| Bot vs S&P | -4.4% (lagged) |
+| Trades | 2 buys, 0 exits (W:0 / L:0 / open:9 lines) |
+| Win rate | n/a (no closed trades) |
+| Best trade | VTV 18 +2.1% open (XLP +1.9%) |
+| Worst trade | SCHD 100 -0.4% open (remnants ~0) |
+| Profit factor | n/a (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|---|---|---|---|---|
+| none | — | — | — | No stop-outs or manual exits; Thu Nov 26 market closed, Fri half-day |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|---|---|---|---|---|
+| VTV 18 | $219.64 | $224.23 | +$82.52 (+2.1%) | $208.39 |
+| XLP 57 | $91.26 | $92.95 | +$96.52 (+1.9%) | $88.81/$86.94/$86.37 |
+| XLV 23 | $181.81 | $184.46 | +$61.05 (+1.5%) | $172.32/$172.29 |
+| SCHD 100 | $35.95 | $35.80 | -$15.00 (-0.4%) | $33.68 |
+| REZ 1 | $94.98 | $96.01 | +$1.03 (+1.1%) | $91.31 |
+| SGOV 20 | $100.49 | $100.72 | +$4.60 (+0.2%) | $95.67 |
+| COWZ 0.03 / EWG 0.02 / FLJP 0.936 | — | — | ~+$0.3 | none (remnants) |
+Cash $35,022.45 (64.5%); ~35.5% deployed vs 75-90% target.
+
+### What Worked
+- Positive week, all core positions green by Fri; trails never triggered.
+- Mon buys (XLV, VTV) with 7% trails both profitable (+1.5%, +2.1% on adds).
+- Capital preserved through PCE binary and holiday-thin tape; no whipsaw exits.
+- Disciplined: no chasing intraday; 2 of 8 buys used.
+
+### What Didn't Work
+- Lagged S&P by ~4.4 pts in a +5.6% week: 65% cash drag.
+- Mon-Fri deployment stayed ~35% despite plan to "stage more after PCE"; follow-through never came.
+- Defensive tilt (XLP/XLV/SCHD/VTV) lagged AI/semi-led rally.
+- Fractional remnants (COWZ/EWG/FLJP) still unclosed — repeated rule slip, 3rd week.
+- Phase still -1.24% vs baseline.
+
+### Key Lessons
+- Cash is now the dominant risk: record-drop week then best-week-in-18-months; staging plan must have dated triggers, not "later".
+- Staged-deploy plans need a concrete rule (e.g., add 1/3 of cash on VIX<25 + index above prior high).
+- Close sub-1-share remnants right after stop fills; they are noise but break the rulebook.
+
+### Adjustments for Next Week
+- VIX fell <25 Fri: deploy in tranches (<=1/3 cash each), momentum leaders incl. growth/semis, logged thesis, 7% trails.
+- 6 buys left of 8 (week resets Mon).
+- Close COWZ/EWG/FLJP remnants Monday.
+- SCHD cut at -7%; no adds to defensives unless they lead.
+- OPEC+ Sun Nov 29 weekend event risk: check energy gap Monday.
+
+### Proposed Strategy Changes
+- Carry-over from Nov 20 (needs one more week of evidence): conditional deployment floor tied to VIX/trend. Two weeks of cash drag in opposite regimes (-8.6% and +5.6% S&P) argue deployment rule should have a dated escalation. Not applied; human decision.
+
+### Overall Grade: C-
+(+1.2% but -4.4% vs S&P; no errors or losses, but 65% cash and no execution of staged redeploy.)
